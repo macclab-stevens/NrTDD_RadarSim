@@ -1,0 +1,447 @@
+2024-07-05 13:58:38,447 DEBUG main - Start Logging
+2024-07-05 13:58:38,449 ERROR exampleFunction - An error occurred
+2024-07-05 13:58:38,575 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,579 DEBUG applyRadar - 0
+Radar Pulse at T  0.0002  between - 0
+0.001 2024-07-05 13:58:38,594 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,597 DEBUG applyRadar - 0
+Radar Pulse at T  0.0002  between - 0
+0.001 2024-07-05 13:58:38,652 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,655 DEBUG applyRadar - 0
+Radar Pulse at T  0.0012  between - 0.001
+0.002 2024-07-05 13:58:38,662 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,664 DEBUG applyRadar - 0
+Radar Pulse at T  0.0012  between - 0.001
+0.002 2024-07-05 13:58:38,762 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,766 DEBUG applyRadar - 0
+Radar Pulse at T  0.0022  between - 0.002
+0.0028571 2024-07-05 13:58:38,771 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,772 DEBUG applyRadar - 0
+Radar Pulse at T  0.0022  between - 0.002
+0.0028571 2024-07-05 13:58:38,779 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,781 DEBUG applyRadar - 0
+Radar Pulse at T  0.0022  between - 0.002
+0.003 2024-07-05 13:58:38,787 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,789 DEBUG applyRadar - 0
+Radar Pulse at T  0.0022  between - 0.002
+0.003 2024-07-05 13:58:38,801 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,803 DEBUG applyRadar - 0
+Radar Pulse at T  0.0022  between - 0.002
+0.003 2024-07-05 13:58:38,810 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,815 DEBUG applyRadar - 0
+Radar Pulse at T  0.0022  between - 0.002
+0.003 2024-07-05 13:58:38,909 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,911 DEBUG applyRadar - 0
+Radar Pulse at T  0.0052  between - 0.005
+0.006 2024-07-05 13:58:38,915 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,917 DEBUG applyRadar - 0
+Radar Pulse at T  0.0052  between - 0.005
+0.006 2024-07-05 13:58:38,981 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,983 DEBUG applyRadar - 0
+Radar Pulse at T  0.0062  between - 0.006
+0.007 2024-07-05 13:58:38,989 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:38,991 DEBUG applyRadar - 0
+Radar Pulse at T  0.0062  between - 0.006
+0.007 2024-07-05 13:58:39,060 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,062 DEBUG applyRadar - 0
+Radar Pulse at T  0.0072  between - 0.007
+0.0078571 2024-07-05 13:58:39,067 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,069 DEBUG applyRadar - 0
+Radar Pulse at T  0.0072  between - 0.007
+0.0078571 2024-07-05 13:58:39,074 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,078 DEBUG applyRadar - 0
+Radar Pulse at T  0.0072  between - 0.007
+0.008 2024-07-05 13:58:39,084 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,086 DEBUG applyRadar - 0
+Radar Pulse at T  0.0072  between - 0.007
+0.008 2024-07-05 13:58:39,092 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,094 DEBUG applyRadar - 0
+Radar Pulse at T  0.0072  between - 0.007
+0.008 2024-07-05 13:58:39,104 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,106 DEBUG applyRadar - 0
+Radar Pulse at T  0.0072  between - 0.007
+0.008 2024-07-05 13:58:39,177 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,180 DEBUG applyRadar - 0
+Radar Pulse at T  0.0082  between - 0.008
+0.009 2024-07-05 13:58:39,187 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,188 DEBUG applyRadar - 0
+Radar Pulse at T  0.0082  between - 0.008
+0.009 2024-07-05 13:58:39,268 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,270 DEBUG applyRadar - 0
+Radar Pulse at T  0.0092  between - 0.009
+0.01 2024-07-05 13:58:39,276 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,277 DEBUG applyRadar - 0
+Radar Pulse at T  0.0092  between - 0.009
+0.01 2024-07-05 13:58:39,350 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,351 DEBUG applyRadar - 0
+Radar Pulse at T  0.0102  between - 0.01
+0.011 2024-07-05 13:58:39,355 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,357 DEBUG applyRadar - 0
+Radar Pulse at T  0.0102  between - 0.01
+0.011 2024-07-05 13:58:39,359 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,361 DEBUG applyRadar - 0
+Radar Pulse at T  0.0102  between - 0.01
+0.011 2024-07-05 13:58:39,364 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,366 DEBUG applyRadar - 0
+Radar Pulse at T  0.0102  between - 0.01
+0.011 2024-07-05 13:58:39,458 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,460 DEBUG applyRadar - 0
+Radar Pulse at T  0.0112  between - 0.011
+0.012 2024-07-05 13:58:39,463 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,465 DEBUG applyRadar - 0
+Radar Pulse at T  0.0112  between - 0.011
+0.012 2024-07-05 13:58:39,520 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,521 DEBUG applyRadar - 0
+Radar Pulse at T  0.0122  between - 0.012
+0.012857 2024-07-05 13:58:39,525 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,527 DEBUG applyRadar - 0
+Radar Pulse at T  0.0122  between - 0.012
+0.012857 2024-07-05 13:58:39,530 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,532 DEBUG applyRadar - 0
+Radar Pulse at T  0.0122  between - 0.012
+0.013 2024-07-05 13:58:39,536 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,538 DEBUG applyRadar - 0
+Radar Pulse at T  0.0122  between - 0.012
+0.013 2024-07-05 13:58:39,541 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,543 DEBUG applyRadar - 0
+Radar Pulse at T  0.0122  between - 0.012
+0.013 2024-07-05 13:58:39,545 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,546 DEBUG applyRadar - 0
+Radar Pulse at T  0.0122  between - 0.012
+0.013 2024-07-05 13:58:39,598 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,599 DEBUG applyRadar - 0
+Radar Pulse at T  0.0132  between - 0.013
+0.014 2024-07-05 13:58:39,602 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,603 DEBUG applyRadar - 0
+Radar Pulse at T  0.0132  between - 0.013
+0.014 2024-07-05 13:58:39,666 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,668 DEBUG applyRadar - 0
+Radar Pulse at T  0.0142  between - 0.014
+0.015 2024-07-05 13:58:39,672 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,673 DEBUG applyRadar - 0
+Radar Pulse at T  0.0142  between - 0.014
+0.015 2024-07-05 13:58:39,734 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,736 DEBUG applyRadar - 0
+Radar Pulse at T  0.0152  between - 0.015
+0.016 2024-07-05 13:58:39,739 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,740 DEBUG applyRadar - 0
+Radar Pulse at T  0.0152  between - 0.015
+0.016 2024-07-05 13:58:39,799 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,801 DEBUG applyRadar - 0
+Radar Pulse at T  0.0162  between - 0.016
+0.017 2024-07-05 13:58:39,803 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,805 DEBUG applyRadar - 0
+Radar Pulse at T  0.0162  between - 0.016
+0.017 2024-07-05 13:58:39,889 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,891 DEBUG applyRadar - 0
+Radar Pulse at T  0.0172  between - 0.017
+0.017857 2024-07-05 13:58:39,894 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,895 DEBUG applyRadar - 0
+Radar Pulse at T  0.0172  between - 0.017
+0.017857 2024-07-05 13:58:39,898 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,900 DEBUG applyRadar - 0
+Radar Pulse at T  0.0172  between - 0.017
+0.018 2024-07-05 13:58:39,905 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,907 DEBUG applyRadar - 0
+Radar Pulse at T  0.0172  between - 0.017
+0.018 2024-07-05 13:58:39,912 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,913 DEBUG applyRadar - 0
+Radar Pulse at T  0.0172  between - 0.017
+0.018 2024-07-05 13:58:39,946 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:39,948 DEBUG applyRadar - 0
+Radar Pulse at T  0.0172  between - 0.017
+0.018 2024-07-05 13:58:40,043 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,046 DEBUG applyRadar - 0
+Radar Pulse at T  0.0182  between - 0.018
+0.019 2024-07-05 13:58:40,058 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,062 DEBUG applyRadar - 0
+Radar Pulse at T  0.0182  between - 0.018
+0.019 2024-07-05 13:58:40,126 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,128 DEBUG applyRadar - 0
+Radar Pulse at T  0.0192  between - 0.019
+0.02 2024-07-05 13:58:40,136 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,138 DEBUG applyRadar - 0
+Radar Pulse at T  0.0192  between - 0.019
+0.02 2024-07-05 13:58:40,209 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,212 DEBUG applyRadar - 0
+Radar Pulse at T  0.0202  between - 0.02
+0.021 2024-07-05 13:58:40,217 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,219 DEBUG applyRadar - 0
+Radar Pulse at T  0.0202  between - 0.02
+0.021 2024-07-05 13:58:40,228 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,229 DEBUG applyRadar - 0
+Radar Pulse at T  0.0202  between - 0.02
+0.021 2024-07-05 13:58:40,235 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,237 DEBUG applyRadar - 0
+Radar Pulse at T  0.0202  between - 0.02
+0.021 2024-07-05 13:58:40,325 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,327 DEBUG applyRadar - 0
+Radar Pulse at T  0.0212  between - 0.021
+0.022 2024-07-05 13:58:40,331 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,333 DEBUG applyRadar - 0
+Radar Pulse at T  0.0212  between - 0.021
+0.022 2024-07-05 13:58:40,391 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,393 DEBUG applyRadar - 0
+Radar Pulse at T  0.0222  between - 0.022
+0.022857 2024-07-05 13:58:40,397 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,399 DEBUG applyRadar - 0
+Radar Pulse at T  0.0222  between - 0.022
+0.022857 2024-07-05 13:58:40,402 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,405 DEBUG applyRadar - 0
+Radar Pulse at T  0.0222  between - 0.022
+0.023 2024-07-05 13:58:40,410 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,411 DEBUG applyRadar - 0
+Radar Pulse at T  0.0222  between - 0.022
+0.023 2024-07-05 13:58:40,416 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,417 DEBUG applyRadar - 0
+Radar Pulse at T  0.0222  between - 0.022
+0.023 2024-07-05 13:58:40,419 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,420 DEBUG applyRadar - 0
+Radar Pulse at T  0.0222  between - 0.022
+0.023 2024-07-05 13:58:40,502 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,505 DEBUG applyRadar - 0
+Radar Pulse at T  0.0232  between - 0.023
+0.024 2024-07-05 13:58:40,509 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,512 DEBUG applyRadar - 0
+Radar Pulse at T  0.0232  between - 0.023
+0.024 2024-07-05 13:58:40,577 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,579 DEBUG applyRadar - 0
+Radar Pulse at T  0.0242  between - 0.024
+0.025 2024-07-05 13:58:40,582 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,584 DEBUG applyRadar - 0
+Radar Pulse at T  0.0242  between - 0.024
+0.025 2024-07-05 13:58:40,647 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,649 DEBUG applyRadar - 0
+Radar Pulse at T  0.0252  between - 0.025
+0.026 2024-07-05 13:58:40,651 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,653 DEBUG applyRadar - 0
+Radar Pulse at T  0.0252  between - 0.025
+0.026 2024-07-05 13:58:40,721 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,723 DEBUG applyRadar - 0
+Radar Pulse at T  0.0262  between - 0.026
+0.027 2024-07-05 13:58:40,725 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,727 DEBUG applyRadar - 0
+Radar Pulse at T  0.0262  between - 0.026
+0.027 2024-07-05 13:58:40,808 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,810 DEBUG applyRadar - 0
+Radar Pulse at T  0.0272  between - 0.027
+0.027857 2024-07-05 13:58:40,812 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,814 DEBUG applyRadar - 0
+Radar Pulse at T  0.0272  between - 0.027
+0.027857 2024-07-05 13:58:40,817 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,818 DEBUG applyRadar - 0
+Radar Pulse at T  0.0272  between - 0.027
+0.028 2024-07-05 13:58:40,822 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,824 DEBUG applyRadar - 0
+Radar Pulse at T  0.0272  between - 0.027
+0.028 2024-07-05 13:58:40,826 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,829 DEBUG applyRadar - 0
+Radar Pulse at T  0.0272  between - 0.027
+0.028 2024-07-05 13:58:40,832 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,834 DEBUG applyRadar - 0
+Radar Pulse at T  0.0272  between - 0.027
+0.028 2024-07-05 13:58:40,900 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,902 DEBUG applyRadar - 0
+Radar Pulse at T  0.0282  between - 0.028
+0.029 2024-07-05 13:58:40,904 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,905 DEBUG applyRadar - 0
+Radar Pulse at T  0.0282  between - 0.028
+0.029 2024-07-05 13:58:40,967 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,968 DEBUG applyRadar - 0
+Radar Pulse at T  0.0292  between - 0.029
+0.03 2024-07-05 13:58:40,973 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:40,975 DEBUG applyRadar - 0
+Radar Pulse at T  0.0292  between - 0.029
+0.03 2024-07-05 13:58:41,041 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,042 DEBUG applyRadar - 0
+Radar Pulse at T  0.0302  between - 0.03
+0.031 2024-07-05 13:58:41,044 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,046 DEBUG applyRadar - 0
+Radar Pulse at T  0.0302  between - 0.03
+0.031 2024-07-05 13:58:41,048 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,049 DEBUG applyRadar - 0
+Radar Pulse at T  0.0302  between - 0.03
+0.031 2024-07-05 13:58:41,050 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,051 DEBUG applyRadar - 0
+Radar Pulse at T  0.0302  between - 0.03
+0.031 2024-07-05 13:58:41,129 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,130 DEBUG applyRadar - 0
+Radar Pulse at T  0.0312  between - 0.031
+0.032 2024-07-05 13:58:41,132 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,134 DEBUG applyRadar - 0
+Radar Pulse at T  0.0312  between - 0.031
+0.032 2024-07-05 13:58:41,214 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,215 DEBUG applyRadar - 0
+Radar Pulse at T  0.0322  between - 0.032
+0.032857 2024-07-05 13:58:41,217 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,219 DEBUG applyRadar - 0
+Radar Pulse at T  0.0322  between - 0.032
+0.032857 2024-07-05 13:58:41,221 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,222 DEBUG applyRadar - 0
+Radar Pulse at T  0.0322  between - 0.032
+0.033 2024-07-05 13:58:41,223 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,224 DEBUG applyRadar - 0
+Radar Pulse at T  0.0322  between - 0.032
+0.033 2024-07-05 13:58:41,227 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,228 DEBUG applyRadar - 0
+Radar Pulse at T  0.0322  between - 0.032
+0.033 2024-07-05 13:58:41,231 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,232 DEBUG applyRadar - 0
+Radar Pulse at T  0.0322  between - 0.032
+0.033 2024-07-05 13:58:41,296 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,297 DEBUG applyRadar - 0
+Radar Pulse at T  0.0332  between - 0.033
+0.034 2024-07-05 13:58:41,299 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,301 DEBUG applyRadar - 0
+Radar Pulse at T  0.0332  between - 0.033
+0.034 2024-07-05 13:58:41,360 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,361 DEBUG applyRadar - 0
+Radar Pulse at T  0.0342  between - 0.034
+0.035 2024-07-05 13:58:41,364 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,365 DEBUG applyRadar - 0
+Radar Pulse at T  0.0342  between - 0.034
+0.035 2024-07-05 13:58:41,428 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,429 DEBUG applyRadar - 0
+Radar Pulse at T  0.0352  between - 0.035
+0.036 2024-07-05 13:58:41,431 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,433 DEBUG applyRadar - 0
+Radar Pulse at T  0.0352  between - 0.035
+0.036 2024-07-05 13:58:41,496 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,497 DEBUG applyRadar - 0
+Radar Pulse at T  0.0362  between - 0.036
+0.037 2024-07-05 13:58:41,499 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,500 DEBUG applyRadar - 0
+Radar Pulse at T  0.0362  between - 0.036
+0.037 2024-07-05 13:58:41,567 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,569 DEBUG applyRadar - 0
+Radar Pulse at T  0.0372  between - 0.037
+0.037857 2024-07-05 13:58:41,571 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,573 DEBUG applyRadar - 0
+Radar Pulse at T  0.0372  between - 0.037
+0.037857 2024-07-05 13:58:41,574 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,575 DEBUG applyRadar - 0
+Radar Pulse at T  0.0372  between - 0.037
+0.038 2024-07-05 13:58:41,577 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,579 DEBUG applyRadar - 0
+Radar Pulse at T  0.0372  between - 0.037
+0.038 2024-07-05 13:58:41,580 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,581 DEBUG applyRadar - 0
+Radar Pulse at T  0.0372  between - 0.037
+0.038 2024-07-05 13:58:41,584 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,586 DEBUG applyRadar - 0
+Radar Pulse at T  0.0372  between - 0.037
+0.038 2024-07-05 13:58:41,649 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,650 DEBUG applyRadar - 0
+Radar Pulse at T  0.0382  between - 0.038
+0.039 2024-07-05 13:58:41,652 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,654 DEBUG applyRadar - 0
+Radar Pulse at T  0.0382  between - 0.038
+0.039 2024-07-05 13:58:41,711 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,713 DEBUG applyRadar - 0
+Radar Pulse at T  0.0392  between - 0.039
+0.04 2024-07-05 13:58:41,715 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,716 DEBUG applyRadar - 0
+Radar Pulse at T  0.0392  between - 0.039
+0.04 2024-07-05 13:58:41,786 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,788 DEBUG applyRadar - 0
+Radar Pulse at T  0.0402  between - 0.04
+0.041 2024-07-05 13:58:41,789 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,790 DEBUG applyRadar - 0
+Radar Pulse at T  0.0402  between - 0.04
+0.041 2024-07-05 13:58:41,793 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,794 DEBUG applyRadar - 0
+Radar Pulse at T  0.0402  between - 0.04
+0.041 2024-07-05 13:58:41,795 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,796 DEBUG applyRadar - 0
+Radar Pulse at T  0.0402  between - 0.04
+0.041 2024-07-05 13:58:41,880 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,882 DEBUG applyRadar - 0
+Radar Pulse at T  0.0412  between - 0.041
+0.042 2024-07-05 13:58:41,884 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,885 DEBUG applyRadar - 0
+Radar Pulse at T  0.0412  between - 0.041
+0.042 2024-07-05 13:58:41,963 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,964 DEBUG applyRadar - 0
+Radar Pulse at T  0.0422  between - 0.042
+0.042857 2024-07-05 13:58:41,966 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,968 DEBUG applyRadar - 0
+Radar Pulse at T  0.0422  between - 0.042
+0.042857 2024-07-05 13:58:41,970 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,971 DEBUG applyRadar - 0
+Radar Pulse at T  0.0422  between - 0.042
+0.043 2024-07-05 13:58:41,973 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,974 DEBUG applyRadar - 0
+Radar Pulse at T  0.0422  between - 0.042
+0.043 2024-07-05 13:58:41,977 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,978 DEBUG applyRadar - 0
+Radar Pulse at T  0.0422  between - 0.042
+0.043 2024-07-05 13:58:41,980 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:41,982 DEBUG applyRadar - 0
+Radar Pulse at T  0.0422  between - 0.042
+0.043 2024-07-05 13:58:42,051 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,052 DEBUG applyRadar - 0
+Radar Pulse at T  0.0432  between - 0.043
+0.044 2024-07-05 13:58:42,055 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,056 DEBUG applyRadar - 0
+Radar Pulse at T  0.0432  between - 0.043
+0.044 2024-07-05 13:58:42,116 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,117 DEBUG applyRadar - 0
+Radar Pulse at T  0.0442  between - 0.044
+0.045 2024-07-05 13:58:42,120 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,122 DEBUG applyRadar - 0
+Radar Pulse at T  0.0442  between - 0.044
+0.045 2024-07-05 13:58:42,187 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,188 DEBUG applyRadar - 0
+Radar Pulse at T  0.0452  between - 0.045
+0.046 2024-07-05 13:58:42,190 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,192 DEBUG applyRadar - 0
+Radar Pulse at T  0.0452  between - 0.045
+0.046 2024-07-05 13:58:42,259 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,261 DEBUG applyRadar - 0
+Radar Pulse at T  0.0462  between - 0.046
+0.047 2024-07-05 13:58:42,263 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,264 DEBUG applyRadar - 0
+Radar Pulse at T  0.0462  between - 0.046
+0.047 2024-07-05 13:58:42,338 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,339 DEBUG applyRadar - 0
+Radar Pulse at T  0.0472  between - 0.047
+0.047857 2024-07-05 13:58:42,342 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,343 DEBUG applyRadar - 0
+Radar Pulse at T  0.0472  between - 0.047
+0.047857 2024-07-05 13:58:42,345 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,346 DEBUG applyRadar - 0
+Radar Pulse at T  0.0472  between - 0.047
+0.048 2024-07-05 13:58:42,348 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,349 DEBUG applyRadar - 0
+Radar Pulse at T  0.0472  between - 0.047
+0.048 2024-07-05 13:58:42,350 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,351 DEBUG applyRadar - 0
+Radar Pulse at T  0.0472  between - 0.047
+0.048 2024-07-05 13:58:42,354 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,356 DEBUG applyRadar - 0
+Radar Pulse at T  0.0472  between - 0.047
+0.048 2024-07-05 13:58:42,428 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,430 DEBUG applyRadar - 0
+Radar Pulse at T  0.0482  between - 0.048
+0.049 2024-07-05 13:58:42,433 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,434 DEBUG applyRadar - 0
+Radar Pulse at T  0.0482  between - 0.048
+0.049 2024-07-05 13:58:42,498 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,499 DEBUG applyRadar - 0
+Radar Pulse at T  0.0492  between - 0.049
+0.05 2024-07-05 13:58:42,501 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,503 DEBUG applyRadar - 0
+Radar Pulse at T  0.0492  between - 0.049
+0.05 2024-07-05 13:58:42,573 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,574 DEBUG applyRadar - 0
+Radar Pulse at T  0.0502  between - 0.05
+0.051 2024-07-05 13:58:42,577 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,579 DEBUG applyRadar - 0
+Radar Pulse at T  0.0502  between - 0.05
+0.051 2024-07-05 13:58:42,581 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,582 DEBUG applyRadar - 0
+Radar Pulse at T  0.0502  between - 0.05
+0.051 2024-07-05 13:58:42,584 DEBUG applyRadar - Start Logginggggggggggggggggggg
+2024-07-05 13:58:42,586 DEBUG applyRadar - 0
+Radar Pulse at T  0.0502  between - 0.05
+0.051 

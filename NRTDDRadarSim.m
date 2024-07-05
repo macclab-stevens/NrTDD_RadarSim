@@ -14,7 +14,10 @@
 % an error with a link to download and install the support package.
 
 %To create the logger reference:
-L = log4m.getLogger('logfile.txt');
+global L
+logFileName = 'log.txt'
+delete logFileName
+L = log4m.getLogger(logFileName);
 L.setCommandWindowLevel(L.ALL);
 L.setLogLevel(L.ALL);
 L.debug('main','Start Logging');
@@ -152,12 +155,14 @@ end
 function Data = applyRadar(Data)
     fprintf("-- \n")
     global Radar
+    global L
     % disp(Radar.Starts)
     for i = 1:length(Radar.Starts)
         % disp(Radar.Starts(i))
         %if radar value is between start_time and start_time+duration
         if Radar.Starts(i)>=Data.StartTime & Radar.Starts(i) <= (Data.StartTime+Data.Duration)
-            fprintf("Radar Pulse at T:%f between %f and %f \n",Radar.Starts(i),Data.StartTime,Data.StartTime+Data.Duration)
+            L.debug('applyRadar','Start Logginggggggggggggggggggg');
+            L.debug('applyRadar',["Radar Pulse at T " Radar.Starts(i) " between" Data.StartTime Data.StartTime+Data.Duration]  )
             numSamples = length(Data.Data);
             sampleDur = Data.Duration/numSamples;
             fprintf("%d samples over %f (s). 1 Sample = %d (s) \n",numSamples,Data.Duration,sampleDur)

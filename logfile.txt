@@ -1,5 +1,0 @@
-2024-07-05 13:26:27,269 ERROR exampleFunction - An error occurred
-2024-07-05 13:27:07,362 ERROR exampleFunction - An error occurred
-2024-07-05 13:27:22,274 ERROR exampleFunction - An error occurred
-2024-07-05 13:29:34,008 DEBUG main - Start Logging
-2024-07-05 13:29:34,012 ERROR exampleFunction - An error occurred
