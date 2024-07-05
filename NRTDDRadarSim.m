@@ -13,6 +13,14 @@
 % package is installed. If the support package is not installed, MATLAB® returns 
 % an error with a link to download and install the support package.
 
+%To create the logger reference:
+L = log4m.getLogger('logfile.txt');
+L.setCommandWindowLevel(L.ALL);
+L.setLogLevel(L.ALL);
+L.debug('main','Start Logging');
+L.error('exampleFunction','An error occurred');
+
+
 wirelessnetworkSupportPackageCheck
 % Create a wireless network simulator.
 
