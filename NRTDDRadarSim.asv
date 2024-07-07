@@ -154,16 +154,15 @@ end
 end
 
 function Data = applyRadar(Data)
+    fprintf("-- \n")
     global Radar
     global L
-    
-    L.debug('applyRadar',"applyRadarFunctionStart")
-    
+    % disp(Radar.Starts)
     for i = 1:length(Radar.Starts)
         % disp(Radar.Starts(i))
         %if radar value is between start_time and start_time+duration
         if Radar.Starts(i)>=Data.StartTime & Radar.Starts(i) <= (Data.StartTime+Data.Duration)
-            L.debug('applyRadar',strcat("Radar Index",string(Radar.Starts(i))));
+            L.debug('applyRadar','Start Logginggggggggggggggggggg');
             message = strcat("Radar Pulse at T ",string(Radar.Starts(i))," between",string(Data.StartTime),"and",string(Data.StartTime+Data.Duration) );
             L.debug('applyRadar',message )
             numSamples = length(Data.Data);
@@ -171,14 +170,14 @@ function Data = applyRadar(Data)
             % message = ;
             L.debug('applyRadar', strcat(string(numSamples)," samples over ",string(Data.Duration),"(s). 1 Sample = ",string(sampleDur),"(s)"))
             Radar.PWsamples = int64(Radar.PW/sampleDur);
-            L.debug('applyRadar',strcat("Radar PulseWidth is ",string(Radar.PW)," (s) or ",string(Radar.PWsamples)," samples" ) );
+            L.debug('applyRadar',strcat("Radar PulseWidth is",string(Radar.PW),"(s) or ",string(Radar.PWsamples),"samples" ) );
             Radar.SampleStart = int64((Radar.Starts(i) - Data.StartTime)/sampleDur);
-            Radar.SampleStop = Radar.SampleStart+Radar.PWsamples
             L.debug('applyRadar',strcat("Radar Pulse starts at sample index: ",string(Radar.SampleStart) ) );
-            L.debug('applyRadar',strcat("IQ Data will be 1'd from sample index ",string(Radar.SampleStart)," to ",string(Radar.SampleStop) )  );
+            fprintf("IQ Data will be 1'd from sample index %f to %f \n",Radar.SampleStart,Radar.SampleStart+Radar.PWsamples)
             x = complex(ones(1,Radar.PWsamples),0);
-            
-            %DataPoints
+            L.debug('applyRadar',strcat("x size:",%f Data.Data(:) %f \n",numel(x),numel(Data.Data(Radar.SampleStart:Radar.SampleStart+Radar.PWsamples-1) )   )
+            % disp(Data.Data(Radar.SampleStart:Radar.SampleStart+Radar.PWsamples-1))
+            % disp(x)
             Data.Data(Radar.SampleStart:Radar.SampleStart+Radar.PWsamples-1) = x;
             break
         end

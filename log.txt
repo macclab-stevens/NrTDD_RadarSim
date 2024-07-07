@@ -1,447 +1,1038 @@
-2024-07-05 13:58:38,447 DEBUG main - Start Logging
-2024-07-05 13:58:38,449 ERROR exampleFunction - An error occurred
-2024-07-05 13:58:38,575 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,579 DEBUG applyRadar - 0
-Radar Pulse at T  0.0002  between - 0
-0.001 2024-07-05 13:58:38,594 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,597 DEBUG applyRadar - 0
-Radar Pulse at T  0.0002  between - 0
-0.001 2024-07-05 13:58:38,652 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,655 DEBUG applyRadar - 0
-Radar Pulse at T  0.0012  between - 0.001
-0.002 2024-07-05 13:58:38,662 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,664 DEBUG applyRadar - 0
-Radar Pulse at T  0.0012  between - 0.001
-0.002 2024-07-05 13:58:38,762 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,766 DEBUG applyRadar - 0
-Radar Pulse at T  0.0022  between - 0.002
-0.0028571 2024-07-05 13:58:38,771 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,772 DEBUG applyRadar - 0
-Radar Pulse at T  0.0022  between - 0.002
-0.0028571 2024-07-05 13:58:38,779 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,781 DEBUG applyRadar - 0
-Radar Pulse at T  0.0022  between - 0.002
-0.003 2024-07-05 13:58:38,787 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,789 DEBUG applyRadar - 0
-Radar Pulse at T  0.0022  between - 0.002
-0.003 2024-07-05 13:58:38,801 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,803 DEBUG applyRadar - 0
-Radar Pulse at T  0.0022  between - 0.002
-0.003 2024-07-05 13:58:38,810 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,815 DEBUG applyRadar - 0
-Radar Pulse at T  0.0022  between - 0.002
-0.003 2024-07-05 13:58:38,909 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,911 DEBUG applyRadar - 0
-Radar Pulse at T  0.0052  between - 0.005
-0.006 2024-07-05 13:58:38,915 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,917 DEBUG applyRadar - 0
-Radar Pulse at T  0.0052  between - 0.005
-0.006 2024-07-05 13:58:38,981 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,983 DEBUG applyRadar - 0
-Radar Pulse at T  0.0062  between - 0.006
-0.007 2024-07-05 13:58:38,989 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:38,991 DEBUG applyRadar - 0
-Radar Pulse at T  0.0062  between - 0.006
-0.007 2024-07-05 13:58:39,060 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,062 DEBUG applyRadar - 0
-Radar Pulse at T  0.0072  between - 0.007
-0.0078571 2024-07-05 13:58:39,067 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,069 DEBUG applyRadar - 0
-Radar Pulse at T  0.0072  between - 0.007
-0.0078571 2024-07-05 13:58:39,074 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,078 DEBUG applyRadar - 0
-Radar Pulse at T  0.0072  between - 0.007
-0.008 2024-07-05 13:58:39,084 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,086 DEBUG applyRadar - 0
-Radar Pulse at T  0.0072  between - 0.007
-0.008 2024-07-05 13:58:39,092 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,094 DEBUG applyRadar - 0
-Radar Pulse at T  0.0072  between - 0.007
-0.008 2024-07-05 13:58:39,104 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,106 DEBUG applyRadar - 0
-Radar Pulse at T  0.0072  between - 0.007
-0.008 2024-07-05 13:58:39,177 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,180 DEBUG applyRadar - 0
-Radar Pulse at T  0.0082  between - 0.008
-0.009 2024-07-05 13:58:39,187 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,188 DEBUG applyRadar - 0
-Radar Pulse at T  0.0082  between - 0.008
-0.009 2024-07-05 13:58:39,268 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,270 DEBUG applyRadar - 0
-Radar Pulse at T  0.0092  between - 0.009
-0.01 2024-07-05 13:58:39,276 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,277 DEBUG applyRadar - 0
-Radar Pulse at T  0.0092  between - 0.009
-0.01 2024-07-05 13:58:39,350 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,351 DEBUG applyRadar - 0
-Radar Pulse at T  0.0102  between - 0.01
-0.011 2024-07-05 13:58:39,355 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,357 DEBUG applyRadar - 0
-Radar Pulse at T  0.0102  between - 0.01
-0.011 2024-07-05 13:58:39,359 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,361 DEBUG applyRadar - 0
-Radar Pulse at T  0.0102  between - 0.01
-0.011 2024-07-05 13:58:39,364 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,366 DEBUG applyRadar - 0
-Radar Pulse at T  0.0102  between - 0.01
-0.011 2024-07-05 13:58:39,458 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,460 DEBUG applyRadar - 0
-Radar Pulse at T  0.0112  between - 0.011
-0.012 2024-07-05 13:58:39,463 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,465 DEBUG applyRadar - 0
-Radar Pulse at T  0.0112  between - 0.011
-0.012 2024-07-05 13:58:39,520 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,521 DEBUG applyRadar - 0
-Radar Pulse at T  0.0122  between - 0.012
-0.012857 2024-07-05 13:58:39,525 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,527 DEBUG applyRadar - 0
-Radar Pulse at T  0.0122  between - 0.012
-0.012857 2024-07-05 13:58:39,530 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,532 DEBUG applyRadar - 0
-Radar Pulse at T  0.0122  between - 0.012
-0.013 2024-07-05 13:58:39,536 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,538 DEBUG applyRadar - 0
-Radar Pulse at T  0.0122  between - 0.012
-0.013 2024-07-05 13:58:39,541 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,543 DEBUG applyRadar - 0
-Radar Pulse at T  0.0122  between - 0.012
-0.013 2024-07-05 13:58:39,545 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,546 DEBUG applyRadar - 0
-Radar Pulse at T  0.0122  between - 0.012
-0.013 2024-07-05 13:58:39,598 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,599 DEBUG applyRadar - 0
-Radar Pulse at T  0.0132  between - 0.013
-0.014 2024-07-05 13:58:39,602 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,603 DEBUG applyRadar - 0
-Radar Pulse at T  0.0132  between - 0.013
-0.014 2024-07-05 13:58:39,666 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,668 DEBUG applyRadar - 0
-Radar Pulse at T  0.0142  between - 0.014
-0.015 2024-07-05 13:58:39,672 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,673 DEBUG applyRadar - 0
-Radar Pulse at T  0.0142  between - 0.014
-0.015 2024-07-05 13:58:39,734 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,736 DEBUG applyRadar - 0
-Radar Pulse at T  0.0152  between - 0.015
-0.016 2024-07-05 13:58:39,739 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,740 DEBUG applyRadar - 0
-Radar Pulse at T  0.0152  between - 0.015
-0.016 2024-07-05 13:58:39,799 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,801 DEBUG applyRadar - 0
-Radar Pulse at T  0.0162  between - 0.016
-0.017 2024-07-05 13:58:39,803 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,805 DEBUG applyRadar - 0
-Radar Pulse at T  0.0162  between - 0.016
-0.017 2024-07-05 13:58:39,889 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,891 DEBUG applyRadar - 0
-Radar Pulse at T  0.0172  between - 0.017
-0.017857 2024-07-05 13:58:39,894 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,895 DEBUG applyRadar - 0
-Radar Pulse at T  0.0172  between - 0.017
-0.017857 2024-07-05 13:58:39,898 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,900 DEBUG applyRadar - 0
-Radar Pulse at T  0.0172  between - 0.017
-0.018 2024-07-05 13:58:39,905 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,907 DEBUG applyRadar - 0
-Radar Pulse at T  0.0172  between - 0.017
-0.018 2024-07-05 13:58:39,912 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,913 DEBUG applyRadar - 0
-Radar Pulse at T  0.0172  between - 0.017
-0.018 2024-07-05 13:58:39,946 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:39,948 DEBUG applyRadar - 0
-Radar Pulse at T  0.0172  between - 0.017
-0.018 2024-07-05 13:58:40,043 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,046 DEBUG applyRadar - 0
-Radar Pulse at T  0.0182  between - 0.018
-0.019 2024-07-05 13:58:40,058 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,062 DEBUG applyRadar - 0
-Radar Pulse at T  0.0182  between - 0.018
-0.019 2024-07-05 13:58:40,126 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,128 DEBUG applyRadar - 0
-Radar Pulse at T  0.0192  between - 0.019
-0.02 2024-07-05 13:58:40,136 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,138 DEBUG applyRadar - 0
-Radar Pulse at T  0.0192  between - 0.019
-0.02 2024-07-05 13:58:40,209 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,212 DEBUG applyRadar - 0
-Radar Pulse at T  0.0202  between - 0.02
-0.021 2024-07-05 13:58:40,217 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,219 DEBUG applyRadar - 0
-Radar Pulse at T  0.0202  between - 0.02
-0.021 2024-07-05 13:58:40,228 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,229 DEBUG applyRadar - 0
-Radar Pulse at T  0.0202  between - 0.02
-0.021 2024-07-05 13:58:40,235 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,237 DEBUG applyRadar - 0
-Radar Pulse at T  0.0202  between - 0.02
-0.021 2024-07-05 13:58:40,325 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,327 DEBUG applyRadar - 0
-Radar Pulse at T  0.0212  between - 0.021
-0.022 2024-07-05 13:58:40,331 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,333 DEBUG applyRadar - 0
-Radar Pulse at T  0.0212  between - 0.021
-0.022 2024-07-05 13:58:40,391 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,393 DEBUG applyRadar - 0
-Radar Pulse at T  0.0222  between - 0.022
-0.022857 2024-07-05 13:58:40,397 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,399 DEBUG applyRadar - 0
-Radar Pulse at T  0.0222  between - 0.022
-0.022857 2024-07-05 13:58:40,402 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,405 DEBUG applyRadar - 0
-Radar Pulse at T  0.0222  between - 0.022
-0.023 2024-07-05 13:58:40,410 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,411 DEBUG applyRadar - 0
-Radar Pulse at T  0.0222  between - 0.022
-0.023 2024-07-05 13:58:40,416 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,417 DEBUG applyRadar - 0
-Radar Pulse at T  0.0222  between - 0.022
-0.023 2024-07-05 13:58:40,419 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,420 DEBUG applyRadar - 0
-Radar Pulse at T  0.0222  between - 0.022
-0.023 2024-07-05 13:58:40,502 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,505 DEBUG applyRadar - 0
-Radar Pulse at T  0.0232  between - 0.023
-0.024 2024-07-05 13:58:40,509 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,512 DEBUG applyRadar - 0
-Radar Pulse at T  0.0232  between - 0.023
-0.024 2024-07-05 13:58:40,577 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,579 DEBUG applyRadar - 0
-Radar Pulse at T  0.0242  between - 0.024
-0.025 2024-07-05 13:58:40,582 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,584 DEBUG applyRadar - 0
-Radar Pulse at T  0.0242  between - 0.024
-0.025 2024-07-05 13:58:40,647 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,649 DEBUG applyRadar - 0
-Radar Pulse at T  0.0252  between - 0.025
-0.026 2024-07-05 13:58:40,651 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,653 DEBUG applyRadar - 0
-Radar Pulse at T  0.0252  between - 0.025
-0.026 2024-07-05 13:58:40,721 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,723 DEBUG applyRadar - 0
-Radar Pulse at T  0.0262  between - 0.026
-0.027 2024-07-05 13:58:40,725 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,727 DEBUG applyRadar - 0
-Radar Pulse at T  0.0262  between - 0.026
-0.027 2024-07-05 13:58:40,808 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,810 DEBUG applyRadar - 0
-Radar Pulse at T  0.0272  between - 0.027
-0.027857 2024-07-05 13:58:40,812 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,814 DEBUG applyRadar - 0
-Radar Pulse at T  0.0272  between - 0.027
-0.027857 2024-07-05 13:58:40,817 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,818 DEBUG applyRadar - 0
-Radar Pulse at T  0.0272  between - 0.027
-0.028 2024-07-05 13:58:40,822 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,824 DEBUG applyRadar - 0
-Radar Pulse at T  0.0272  between - 0.027
-0.028 2024-07-05 13:58:40,826 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,829 DEBUG applyRadar - 0
-Radar Pulse at T  0.0272  between - 0.027
-0.028 2024-07-05 13:58:40,832 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,834 DEBUG applyRadar - 0
-Radar Pulse at T  0.0272  between - 0.027
-0.028 2024-07-05 13:58:40,900 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,902 DEBUG applyRadar - 0
-Radar Pulse at T  0.0282  between - 0.028
-0.029 2024-07-05 13:58:40,904 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,905 DEBUG applyRadar - 0
-Radar Pulse at T  0.0282  between - 0.028
-0.029 2024-07-05 13:58:40,967 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,968 DEBUG applyRadar - 0
-Radar Pulse at T  0.0292  between - 0.029
-0.03 2024-07-05 13:58:40,973 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:40,975 DEBUG applyRadar - 0
-Radar Pulse at T  0.0292  between - 0.029
-0.03 2024-07-05 13:58:41,041 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,042 DEBUG applyRadar - 0
-Radar Pulse at T  0.0302  between - 0.03
-0.031 2024-07-05 13:58:41,044 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,046 DEBUG applyRadar - 0
-Radar Pulse at T  0.0302  between - 0.03
-0.031 2024-07-05 13:58:41,048 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,049 DEBUG applyRadar - 0
-Radar Pulse at T  0.0302  between - 0.03
-0.031 2024-07-05 13:58:41,050 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,051 DEBUG applyRadar - 0
-Radar Pulse at T  0.0302  between - 0.03
-0.031 2024-07-05 13:58:41,129 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,130 DEBUG applyRadar - 0
-Radar Pulse at T  0.0312  between - 0.031
-0.032 2024-07-05 13:58:41,132 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,134 DEBUG applyRadar - 0
-Radar Pulse at T  0.0312  between - 0.031
-0.032 2024-07-05 13:58:41,214 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,215 DEBUG applyRadar - 0
-Radar Pulse at T  0.0322  between - 0.032
-0.032857 2024-07-05 13:58:41,217 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,219 DEBUG applyRadar - 0
-Radar Pulse at T  0.0322  between - 0.032
-0.032857 2024-07-05 13:58:41,221 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,222 DEBUG applyRadar - 0
-Radar Pulse at T  0.0322  between - 0.032
-0.033 2024-07-05 13:58:41,223 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,224 DEBUG applyRadar - 0
-Radar Pulse at T  0.0322  between - 0.032
-0.033 2024-07-05 13:58:41,227 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,228 DEBUG applyRadar - 0
-Radar Pulse at T  0.0322  between - 0.032
-0.033 2024-07-05 13:58:41,231 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,232 DEBUG applyRadar - 0
-Radar Pulse at T  0.0322  between - 0.032
-0.033 2024-07-05 13:58:41,296 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,297 DEBUG applyRadar - 0
-Radar Pulse at T  0.0332  between - 0.033
-0.034 2024-07-05 13:58:41,299 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,301 DEBUG applyRadar - 0
-Radar Pulse at T  0.0332  between - 0.033
-0.034 2024-07-05 13:58:41,360 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,361 DEBUG applyRadar - 0
-Radar Pulse at T  0.0342  between - 0.034
-0.035 2024-07-05 13:58:41,364 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,365 DEBUG applyRadar - 0
-Radar Pulse at T  0.0342  between - 0.034
-0.035 2024-07-05 13:58:41,428 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,429 DEBUG applyRadar - 0
-Radar Pulse at T  0.0352  between - 0.035
-0.036 2024-07-05 13:58:41,431 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,433 DEBUG applyRadar - 0
-Radar Pulse at T  0.0352  between - 0.035
-0.036 2024-07-05 13:58:41,496 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,497 DEBUG applyRadar - 0
-Radar Pulse at T  0.0362  between - 0.036
-0.037 2024-07-05 13:58:41,499 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,500 DEBUG applyRadar - 0
-Radar Pulse at T  0.0362  between - 0.036
-0.037 2024-07-05 13:58:41,567 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,569 DEBUG applyRadar - 0
-Radar Pulse at T  0.0372  between - 0.037
-0.037857 2024-07-05 13:58:41,571 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,573 DEBUG applyRadar - 0
-Radar Pulse at T  0.0372  between - 0.037
-0.037857 2024-07-05 13:58:41,574 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,575 DEBUG applyRadar - 0
-Radar Pulse at T  0.0372  between - 0.037
-0.038 2024-07-05 13:58:41,577 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,579 DEBUG applyRadar - 0
-Radar Pulse at T  0.0372  between - 0.037
-0.038 2024-07-05 13:58:41,580 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,581 DEBUG applyRadar - 0
-Radar Pulse at T  0.0372  between - 0.037
-0.038 2024-07-05 13:58:41,584 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,586 DEBUG applyRadar - 0
-Radar Pulse at T  0.0372  between - 0.037
-0.038 2024-07-05 13:58:41,649 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,650 DEBUG applyRadar - 0
-Radar Pulse at T  0.0382  between - 0.038
-0.039 2024-07-05 13:58:41,652 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,654 DEBUG applyRadar - 0
-Radar Pulse at T  0.0382  between - 0.038
-0.039 2024-07-05 13:58:41,711 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,713 DEBUG applyRadar - 0
-Radar Pulse at T  0.0392  between - 0.039
-0.04 2024-07-05 13:58:41,715 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,716 DEBUG applyRadar - 0
-Radar Pulse at T  0.0392  between - 0.039
-0.04 2024-07-05 13:58:41,786 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,788 DEBUG applyRadar - 0
-Radar Pulse at T  0.0402  between - 0.04
-0.041 2024-07-05 13:58:41,789 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,790 DEBUG applyRadar - 0
-Radar Pulse at T  0.0402  between - 0.04
-0.041 2024-07-05 13:58:41,793 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,794 DEBUG applyRadar - 0
-Radar Pulse at T  0.0402  between - 0.04
-0.041 2024-07-05 13:58:41,795 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,796 DEBUG applyRadar - 0
-Radar Pulse at T  0.0402  between - 0.04
-0.041 2024-07-05 13:58:41,880 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,882 DEBUG applyRadar - 0
-Radar Pulse at T  0.0412  between - 0.041
-0.042 2024-07-05 13:58:41,884 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,885 DEBUG applyRadar - 0
-Radar Pulse at T  0.0412  between - 0.041
-0.042 2024-07-05 13:58:41,963 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,964 DEBUG applyRadar - 0
-Radar Pulse at T  0.0422  between - 0.042
-0.042857 2024-07-05 13:58:41,966 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,968 DEBUG applyRadar - 0
-Radar Pulse at T  0.0422  between - 0.042
-0.042857 2024-07-05 13:58:41,970 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,971 DEBUG applyRadar - 0
-Radar Pulse at T  0.0422  between - 0.042
-0.043 2024-07-05 13:58:41,973 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,974 DEBUG applyRadar - 0
-Radar Pulse at T  0.0422  between - 0.042
-0.043 2024-07-05 13:58:41,977 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,978 DEBUG applyRadar - 0
-Radar Pulse at T  0.0422  between - 0.042
-0.043 2024-07-05 13:58:41,980 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:41,982 DEBUG applyRadar - 0
-Radar Pulse at T  0.0422  between - 0.042
-0.043 2024-07-05 13:58:42,051 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,052 DEBUG applyRadar - 0
-Radar Pulse at T  0.0432  between - 0.043
-0.044 2024-07-05 13:58:42,055 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,056 DEBUG applyRadar - 0
-Radar Pulse at T  0.0432  between - 0.043
-0.044 2024-07-05 13:58:42,116 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,117 DEBUG applyRadar - 0
-Radar Pulse at T  0.0442  between - 0.044
-0.045 2024-07-05 13:58:42,120 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,122 DEBUG applyRadar - 0
-Radar Pulse at T  0.0442  between - 0.044
-0.045 2024-07-05 13:58:42,187 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,188 DEBUG applyRadar - 0
-Radar Pulse at T  0.0452  between - 0.045
-0.046 2024-07-05 13:58:42,190 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,192 DEBUG applyRadar - 0
-Radar Pulse at T  0.0452  between - 0.045
-0.046 2024-07-05 13:58:42,259 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,261 DEBUG applyRadar - 0
-Radar Pulse at T  0.0462  between - 0.046
-0.047 2024-07-05 13:58:42,263 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,264 DEBUG applyRadar - 0
-Radar Pulse at T  0.0462  between - 0.046
-0.047 2024-07-05 13:58:42,338 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,339 DEBUG applyRadar - 0
-Radar Pulse at T  0.0472  between - 0.047
-0.047857 2024-07-05 13:58:42,342 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,343 DEBUG applyRadar - 0
-Radar Pulse at T  0.0472  between - 0.047
-0.047857 2024-07-05 13:58:42,345 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,346 DEBUG applyRadar - 0
-Radar Pulse at T  0.0472  between - 0.047
-0.048 2024-07-05 13:58:42,348 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,349 DEBUG applyRadar - 0
-Radar Pulse at T  0.0472  between - 0.047
-0.048 2024-07-05 13:58:42,350 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,351 DEBUG applyRadar - 0
-Radar Pulse at T  0.0472  between - 0.047
-0.048 2024-07-05 13:58:42,354 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,356 DEBUG applyRadar - 0
-Radar Pulse at T  0.0472  between - 0.047
-0.048 2024-07-05 13:58:42,428 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,430 DEBUG applyRadar - 0
-Radar Pulse at T  0.0482  between - 0.048
-0.049 2024-07-05 13:58:42,433 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,434 DEBUG applyRadar - 0
-Radar Pulse at T  0.0482  between - 0.048
-0.049 2024-07-05 13:58:42,498 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,499 DEBUG applyRadar - 0
-Radar Pulse at T  0.0492  between - 0.049
-0.05 2024-07-05 13:58:42,501 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,503 DEBUG applyRadar - 0
-Radar Pulse at T  0.0492  between - 0.049
-0.05 2024-07-05 13:58:42,573 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,574 DEBUG applyRadar - 0
-Radar Pulse at T  0.0502  between - 0.05
-0.051 2024-07-05 13:58:42,577 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,579 DEBUG applyRadar - 0
-Radar Pulse at T  0.0502  between - 0.05
-0.051 2024-07-05 13:58:42,581 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,582 DEBUG applyRadar - 0
-Radar Pulse at T  0.0502  between - 0.05
-0.051 2024-07-05 13:58:42,584 DEBUG applyRadar - Start Logginggggggggggggggggggg
-2024-07-05 13:58:42,586 DEBUG applyRadar - 0
-Radar Pulse at T  0.0502  between - 0.05
-0.051 
+2024-07-07 15:06:42,814 DEBUG main - Start Logging 
+2024-07-07 15:06:42,815 ERROR exampleFunction - An error occurred 
+2024-07-07 15:06:42,909 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:42,911 DEBUG applyRadar - Radar Index0.0002 
+2024-07-07 15:06:42,912 DEBUG applyRadar - Radar Pulse at T 0.0002 between0and0.001 
+2024-07-07 15:06:42,913 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:42,913 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:42,914 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:42,915 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:42,923 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:42,924 DEBUG applyRadar - Radar Index0.0002 
+2024-07-07 15:06:42,924 DEBUG applyRadar - Radar Pulse at T 0.0002 between0and0.001 
+2024-07-07 15:06:42,925 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:42,925 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:42,926 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:42,926 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,011 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,013 DEBUG applyRadar - Radar Index0.0012 
+2024-07-07 15:06:43,013 DEBUG applyRadar - Radar Pulse at T 0.0012 between0.001and0.002 
+2024-07-07 15:06:43,013 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,015 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,015 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,016 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,020 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,022 DEBUG applyRadar - Radar Index0.0012 
+2024-07-07 15:06:43,022 DEBUG applyRadar - Radar Pulse at T 0.0012 between0.001and0.002 
+2024-07-07 15:06:43,023 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,023 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,024 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,024 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,112 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,112 DEBUG applyRadar - Radar Index0.0022 
+2024-07-07 15:06:43,113 DEBUG applyRadar - Radar Pulse at T 0.0022 between0.002and0.0028571 
+2024-07-07 15:06:43,114 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:43,114 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,114 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:43,115 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:43,119 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,119 DEBUG applyRadar - Radar Index0.0022 
+2024-07-07 15:06:43,120 DEBUG applyRadar - Radar Pulse at T 0.0022 between0.002and0.0028571 
+2024-07-07 15:06:43,120 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:43,120 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,120 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:43,121 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:43,126 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,126 DEBUG applyRadar - Radar Index0.0022 
+2024-07-07 15:06:43,127 DEBUG applyRadar - Radar Pulse at T 0.0022 between0.002and0.003 
+2024-07-07 15:06:43,127 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,127 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,128 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,129 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,132 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,133 DEBUG applyRadar - Radar Index0.0022 
+2024-07-07 15:06:43,134 DEBUG applyRadar - Radar Pulse at T 0.0022 between0.002and0.003 
+2024-07-07 15:06:43,134 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,135 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,137 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,138 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,142 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,145 DEBUG applyRadar - Radar Index0.0022 
+2024-07-07 15:06:43,145 DEBUG applyRadar - Radar Pulse at T 0.0022 between0.002and0.003 
+2024-07-07 15:06:43,146 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,146 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,147 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,147 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,150 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,150 DEBUG applyRadar - Radar Index0.0022 
+2024-07-07 15:06:43,151 DEBUG applyRadar - Radar Pulse at T 0.0022 between0.002and0.003 
+2024-07-07 15:06:43,151 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,151 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,152 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,152 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,260 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,260 DEBUG applyRadar - Radar Index0.0052 
+2024-07-07 15:06:43,261 DEBUG applyRadar - Radar Pulse at T 0.0052 between0.005and0.006 
+2024-07-07 15:06:43,261 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,262 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,262 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,262 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,264 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,265 DEBUG applyRadar - Radar Index0.0052 
+2024-07-07 15:06:43,265 DEBUG applyRadar - Radar Pulse at T 0.0052 between0.005and0.006 
+2024-07-07 15:06:43,266 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,266 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,267 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,267 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,326 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,327 DEBUG applyRadar - Radar Index0.0062 
+2024-07-07 15:06:43,327 DEBUG applyRadar - Radar Pulse at T 0.0062 between0.006and0.007 
+2024-07-07 15:06:43,328 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,328 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,329 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,329 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,330 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,332 DEBUG applyRadar - Radar Index0.0062 
+2024-07-07 15:06:43,333 DEBUG applyRadar - Radar Pulse at T 0.0062 between0.006and0.007 
+2024-07-07 15:06:43,333 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,334 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,334 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,335 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,404 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,406 DEBUG applyRadar - Radar Index0.0072 
+2024-07-07 15:06:43,406 DEBUG applyRadar - Radar Pulse at T 0.0072 between0.007and0.0078571 
+2024-07-07 15:06:43,407 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:43,407 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,408 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:43,408 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:43,410 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,411 DEBUG applyRadar - Radar Index0.0072 
+2024-07-07 15:06:43,412 DEBUG applyRadar - Radar Pulse at T 0.0072 between0.007and0.0078571 
+2024-07-07 15:06:43,412 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:43,412 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,413 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:43,413 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:43,416 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,418 DEBUG applyRadar - Radar Index0.0072 
+2024-07-07 15:06:43,419 DEBUG applyRadar - Radar Pulse at T 0.0072 between0.007and0.008 
+2024-07-07 15:06:43,419 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,420 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,420 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,421 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,423 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,423 DEBUG applyRadar - Radar Index0.0072 
+2024-07-07 15:06:43,424 DEBUG applyRadar - Radar Pulse at T 0.0072 between0.007and0.008 
+2024-07-07 15:06:43,424 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,424 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,425 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,425 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,429 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,430 DEBUG applyRadar - Radar Index0.0072 
+2024-07-07 15:06:43,430 DEBUG applyRadar - Radar Pulse at T 0.0072 between0.007and0.008 
+2024-07-07 15:06:43,431 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,431 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,431 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,432 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,434 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,434 DEBUG applyRadar - Radar Index0.0072 
+2024-07-07 15:06:43,435 DEBUG applyRadar - Radar Pulse at T 0.0072 between0.007and0.008 
+2024-07-07 15:06:43,435 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,435 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,436 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,437 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,490 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,491 DEBUG applyRadar - Radar Index0.0082 
+2024-07-07 15:06:43,492 DEBUG applyRadar - Radar Pulse at T 0.0082 between0.008and0.009 
+2024-07-07 15:06:43,492 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,492 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,493 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,493 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,498 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,499 DEBUG applyRadar - Radar Index0.0082 
+2024-07-07 15:06:43,499 DEBUG applyRadar - Radar Pulse at T 0.0082 between0.008and0.009 
+2024-07-07 15:06:43,499 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,500 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,500 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,500 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,577 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,577 DEBUG applyRadar - Radar Index0.0092 
+2024-07-07 15:06:43,578 DEBUG applyRadar - Radar Pulse at T 0.0092 between0.009and0.01 
+2024-07-07 15:06:43,578 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,578 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,579 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,579 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,583 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,583 DEBUG applyRadar - Radar Index0.0092 
+2024-07-07 15:06:43,584 DEBUG applyRadar - Radar Pulse at T 0.0092 between0.009and0.01 
+2024-07-07 15:06:43,584 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,584 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,585 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,585 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,654 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,655 DEBUG applyRadar - Radar Index0.0102 
+2024-07-07 15:06:43,655 DEBUG applyRadar - Radar Pulse at T 0.0102 between0.01and0.011 
+2024-07-07 15:06:43,655 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,656 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,656 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,656 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,659 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,659 DEBUG applyRadar - Radar Index0.0102 
+2024-07-07 15:06:43,660 DEBUG applyRadar - Radar Pulse at T 0.0102 between0.01and0.011 
+2024-07-07 15:06:43,660 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,660 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,661 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,661 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,663 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,663 DEBUG applyRadar - Radar Index0.0102 
+2024-07-07 15:06:43,663 DEBUG applyRadar - Radar Pulse at T 0.0102 between0.01and0.011 
+2024-07-07 15:06:43,664 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,664 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,664 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,665 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,667 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,668 DEBUG applyRadar - Radar Index0.0102 
+2024-07-07 15:06:43,668 DEBUG applyRadar - Radar Pulse at T 0.0102 between0.01and0.011 
+2024-07-07 15:06:43,668 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,669 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,669 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,670 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,762 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,763 DEBUG applyRadar - Radar Index0.0112 
+2024-07-07 15:06:43,763 DEBUG applyRadar - Radar Pulse at T 0.0112 between0.011and0.012 
+2024-07-07 15:06:43,764 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,764 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,764 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,765 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,767 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,768 DEBUG applyRadar - Radar Index0.0112 
+2024-07-07 15:06:43,769 DEBUG applyRadar - Radar Pulse at T 0.0112 between0.011and0.012 
+2024-07-07 15:06:43,769 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,770 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,770 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,771 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,828 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,828 DEBUG applyRadar - Radar Index0.0122 
+2024-07-07 15:06:43,829 DEBUG applyRadar - Radar Pulse at T 0.0122 between0.012and0.012857 
+2024-07-07 15:06:43,829 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:43,829 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,830 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:43,830 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:43,831 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,832 DEBUG applyRadar - Radar Index0.0122 
+2024-07-07 15:06:43,832 DEBUG applyRadar - Radar Pulse at T 0.0122 between0.012and0.012857 
+2024-07-07 15:06:43,833 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:43,833 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,833 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:43,834 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:43,838 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,838 DEBUG applyRadar - Radar Index0.0122 
+2024-07-07 15:06:43,838 DEBUG applyRadar - Radar Pulse at T 0.0122 between0.012and0.013 
+2024-07-07 15:06:43,839 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,839 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,839 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,839 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,841 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,841 DEBUG applyRadar - Radar Index0.0122 
+2024-07-07 15:06:43,842 DEBUG applyRadar - Radar Pulse at T 0.0122 between0.012and0.013 
+2024-07-07 15:06:43,842 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,842 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,843 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,843 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,845 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,845 DEBUG applyRadar - Radar Index0.0122 
+2024-07-07 15:06:43,845 DEBUG applyRadar - Radar Pulse at T 0.0122 between0.012and0.013 
+2024-07-07 15:06:43,845 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,845 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,846 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,846 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,847 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,847 DEBUG applyRadar - Radar Index0.0122 
+2024-07-07 15:06:43,847 DEBUG applyRadar - Radar Pulse at T 0.0122 between0.012and0.013 
+2024-07-07 15:06:43,847 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,848 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,848 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,848 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,904 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,904 DEBUG applyRadar - Radar Index0.0132 
+2024-07-07 15:06:43,905 DEBUG applyRadar - Radar Pulse at T 0.0132 between0.013and0.014 
+2024-07-07 15:06:43,905 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,906 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,906 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,906 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,908 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,909 DEBUG applyRadar - Radar Index0.0132 
+2024-07-07 15:06:43,909 DEBUG applyRadar - Radar Pulse at T 0.0132 between0.013and0.014 
+2024-07-07 15:06:43,910 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,910 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,910 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,911 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,973 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,974 DEBUG applyRadar - Radar Index0.0142 
+2024-07-07 15:06:43,974 DEBUG applyRadar - Radar Pulse at T 0.0142 between0.014and0.015 
+2024-07-07 15:06:43,974 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,975 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,975 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,975 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:43,977 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:43,978 DEBUG applyRadar - Radar Index0.0142 
+2024-07-07 15:06:43,978 DEBUG applyRadar - Radar Pulse at T 0.0142 between0.014and0.015 
+2024-07-07 15:06:43,981 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:43,982 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:43,984 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:43,984 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,052 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,053 DEBUG applyRadar - Radar Index0.0152 
+2024-07-07 15:06:44,053 DEBUG applyRadar - Radar Pulse at T 0.0152 between0.015and0.016 
+2024-07-07 15:06:44,054 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,054 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,055 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,055 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,056 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,057 DEBUG applyRadar - Radar Index0.0152 
+2024-07-07 15:06:44,058 DEBUG applyRadar - Radar Pulse at T 0.0152 between0.015and0.016 
+2024-07-07 15:06:44,058 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,058 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,059 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,059 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,118 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,119 DEBUG applyRadar - Radar Index0.0162 
+2024-07-07 15:06:44,119 DEBUG applyRadar - Radar Pulse at T 0.0162 between0.016and0.017 
+2024-07-07 15:06:44,119 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,120 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,120 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,120 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,122 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,123 DEBUG applyRadar - Radar Index0.0162 
+2024-07-07 15:06:44,123 DEBUG applyRadar - Radar Pulse at T 0.0162 between0.016and0.017 
+2024-07-07 15:06:44,123 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,124 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,124 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,125 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,216 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,216 DEBUG applyRadar - Radar Index0.0172 
+2024-07-07 15:06:44,217 DEBUG applyRadar - Radar Pulse at T 0.0172 between0.017and0.017857 
+2024-07-07 15:06:44,217 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:44,218 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,218 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:44,218 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:44,221 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,222 DEBUG applyRadar - Radar Index0.0172 
+2024-07-07 15:06:44,222 DEBUG applyRadar - Radar Pulse at T 0.0172 between0.017and0.017857 
+2024-07-07 15:06:44,222 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:44,223 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,223 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:44,223 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:44,225 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,226 DEBUG applyRadar - Radar Index0.0172 
+2024-07-07 15:06:44,226 DEBUG applyRadar - Radar Pulse at T 0.0172 between0.017and0.018 
+2024-07-07 15:06:44,227 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,227 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,228 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,228 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,231 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,231 DEBUG applyRadar - Radar Index0.0172 
+2024-07-07 15:06:44,232 DEBUG applyRadar - Radar Pulse at T 0.0172 between0.017and0.018 
+2024-07-07 15:06:44,232 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,232 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,233 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,233 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,235 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,235 DEBUG applyRadar - Radar Index0.0172 
+2024-07-07 15:06:44,235 DEBUG applyRadar - Radar Pulse at T 0.0172 between0.017and0.018 
+2024-07-07 15:06:44,236 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,236 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,237 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,237 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,246 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,252 DEBUG applyRadar - Radar Index0.0172 
+2024-07-07 15:06:44,257 DEBUG applyRadar - Radar Pulse at T 0.0172 between0.017and0.018 
+2024-07-07 15:06:44,258 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,259 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,260 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,260 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,321 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,324 DEBUG applyRadar - Radar Index0.0182 
+2024-07-07 15:06:44,327 DEBUG applyRadar - Radar Pulse at T 0.0182 between0.018and0.019 
+2024-07-07 15:06:44,329 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,331 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,333 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,333 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,345 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,347 DEBUG applyRadar - Radar Index0.0182 
+2024-07-07 15:06:44,350 DEBUG applyRadar - Radar Pulse at T 0.0182 between0.018and0.019 
+2024-07-07 15:06:44,351 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,353 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,355 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,357 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,432 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,433 DEBUG applyRadar - Radar Index0.0192 
+2024-07-07 15:06:44,434 DEBUG applyRadar - Radar Pulse at T 0.0192 between0.019and0.02 
+2024-07-07 15:06:44,435 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,437 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,439 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,440 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,443 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,445 DEBUG applyRadar - Radar Index0.0192 
+2024-07-07 15:06:44,446 DEBUG applyRadar - Radar Pulse at T 0.0192 between0.019and0.02 
+2024-07-07 15:06:44,446 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,447 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,449 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,451 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,528 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,528 DEBUG applyRadar - Radar Index0.0202 
+2024-07-07 15:06:44,530 DEBUG applyRadar - Radar Pulse at T 0.0202 between0.02and0.021 
+2024-07-07 15:06:44,531 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,531 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,532 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,535 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,546 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,547 DEBUG applyRadar - Radar Index0.0202 
+2024-07-07 15:06:44,548 DEBUG applyRadar - Radar Pulse at T 0.0202 between0.02and0.021 
+2024-07-07 15:06:44,549 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,550 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,551 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,553 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,556 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,557 DEBUG applyRadar - Radar Index0.0202 
+2024-07-07 15:06:44,559 DEBUG applyRadar - Radar Pulse at T 0.0202 between0.02and0.021 
+2024-07-07 15:06:44,560 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,560 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,561 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,563 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,567 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,568 DEBUG applyRadar - Radar Index0.0202 
+2024-07-07 15:06:44,570 DEBUG applyRadar - Radar Pulse at T 0.0202 between0.02and0.021 
+2024-07-07 15:06:44,572 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,574 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,576 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,578 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,681 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,681 DEBUG applyRadar - Radar Index0.0212 
+2024-07-07 15:06:44,681 DEBUG applyRadar - Radar Pulse at T 0.0212 between0.021and0.022 
+2024-07-07 15:06:44,682 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,683 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,685 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,686 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,689 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,690 DEBUG applyRadar - Radar Index0.0212 
+2024-07-07 15:06:44,690 DEBUG applyRadar - Radar Pulse at T 0.0212 between0.021and0.022 
+2024-07-07 15:06:44,691 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,691 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,691 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,692 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,765 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,766 DEBUG applyRadar - Radar Index0.0222 
+2024-07-07 15:06:44,766 DEBUG applyRadar - Radar Pulse at T 0.0222 between0.022and0.022857 
+2024-07-07 15:06:44,767 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:44,768 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,768 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:44,770 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:44,772 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,772 DEBUG applyRadar - Radar Index0.0222 
+2024-07-07 15:06:44,773 DEBUG applyRadar - Radar Pulse at T 0.0222 between0.022and0.022857 
+2024-07-07 15:06:44,773 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:44,773 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,774 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:44,774 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:44,777 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,778 DEBUG applyRadar - Radar Index0.0222 
+2024-07-07 15:06:44,779 DEBUG applyRadar - Radar Pulse at T 0.0222 between0.022and0.023 
+2024-07-07 15:06:44,781 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,781 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,782 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,783 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,787 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,787 DEBUG applyRadar - Radar Index0.0222 
+2024-07-07 15:06:44,788 DEBUG applyRadar - Radar Pulse at T 0.0222 between0.022and0.023 
+2024-07-07 15:06:44,788 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,788 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,789 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,790 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,793 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,793 DEBUG applyRadar - Radar Index0.0222 
+2024-07-07 15:06:44,794 DEBUG applyRadar - Radar Pulse at T 0.0222 between0.022and0.023 
+2024-07-07 15:06:44,794 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,794 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,795 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,795 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,797 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,798 DEBUG applyRadar - Radar Index0.0222 
+2024-07-07 15:06:44,798 DEBUG applyRadar - Radar Pulse at T 0.0222 between0.022and0.023 
+2024-07-07 15:06:44,798 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,798 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,799 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,799 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,875 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,876 DEBUG applyRadar - Radar Index0.0232 
+2024-07-07 15:06:44,876 DEBUG applyRadar - Radar Pulse at T 0.0232 between0.023and0.024 
+2024-07-07 15:06:44,876 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,876 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,877 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,877 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,878 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,879 DEBUG applyRadar - Radar Index0.0232 
+2024-07-07 15:06:44,879 DEBUG applyRadar - Radar Pulse at T 0.0232 between0.023and0.024 
+2024-07-07 15:06:44,879 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,879 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,880 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,880 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,942 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,942 DEBUG applyRadar - Radar Index0.0242 
+2024-07-07 15:06:44,943 DEBUG applyRadar - Radar Pulse at T 0.0242 between0.024and0.025 
+2024-07-07 15:06:44,943 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,943 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,944 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,944 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:44,945 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:44,945 DEBUG applyRadar - Radar Index0.0242 
+2024-07-07 15:06:44,946 DEBUG applyRadar - Radar Pulse at T 0.0242 between0.024and0.025 
+2024-07-07 15:06:44,946 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:44,946 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:44,947 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:44,947 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,015 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,015 DEBUG applyRadar - Radar Index0.0252 
+2024-07-07 15:06:45,016 DEBUG applyRadar - Radar Pulse at T 0.0252 between0.025and0.026 
+2024-07-07 15:06:45,016 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,016 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,017 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,017 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,018 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,019 DEBUG applyRadar - Radar Index0.0252 
+2024-07-07 15:06:45,019 DEBUG applyRadar - Radar Pulse at T 0.0252 between0.025and0.026 
+2024-07-07 15:06:45,019 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,020 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,020 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,021 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,069 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,070 DEBUG applyRadar - Radar Index0.0262 
+2024-07-07 15:06:45,070 DEBUG applyRadar - Radar Pulse at T 0.0262 between0.026and0.027 
+2024-07-07 15:06:45,071 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,071 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,071 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,071 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,072 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,073 DEBUG applyRadar - Radar Index0.0262 
+2024-07-07 15:06:45,073 DEBUG applyRadar - Radar Pulse at T 0.0262 between0.026and0.027 
+2024-07-07 15:06:45,073 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,074 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,074 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,074 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,191 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,192 DEBUG applyRadar - Radar Index0.0272 
+2024-07-07 15:06:45,194 DEBUG applyRadar - Radar Pulse at T 0.0272 between0.027and0.027857 
+2024-07-07 15:06:45,195 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:45,195 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,198 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:45,199 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:45,204 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,204 DEBUG applyRadar - Radar Index0.0272 
+2024-07-07 15:06:45,206 DEBUG applyRadar - Radar Pulse at T 0.0272 between0.027and0.027857 
+2024-07-07 15:06:45,206 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:45,207 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,208 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:45,209 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:45,212 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,212 DEBUG applyRadar - Radar Index0.0272 
+2024-07-07 15:06:45,213 DEBUG applyRadar - Radar Pulse at T 0.0272 between0.027and0.028 
+2024-07-07 15:06:45,214 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,216 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,218 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,219 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,221 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,222 DEBUG applyRadar - Radar Index0.0272 
+2024-07-07 15:06:45,223 DEBUG applyRadar - Radar Pulse at T 0.0272 between0.027and0.028 
+2024-07-07 15:06:45,223 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,224 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,224 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,224 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,225 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,225 DEBUG applyRadar - Radar Index0.0272 
+2024-07-07 15:06:45,226 DEBUG applyRadar - Radar Pulse at T 0.0272 between0.027and0.028 
+2024-07-07 15:06:45,226 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,227 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,227 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,228 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,230 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,230 DEBUG applyRadar - Radar Index0.0272 
+2024-07-07 15:06:45,231 DEBUG applyRadar - Radar Pulse at T 0.0272 between0.027and0.028 
+2024-07-07 15:06:45,231 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,231 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,232 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,232 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,301 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,302 DEBUG applyRadar - Radar Index0.0282 
+2024-07-07 15:06:45,302 DEBUG applyRadar - Radar Pulse at T 0.0282 between0.028and0.029 
+2024-07-07 15:06:45,302 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,303 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,303 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,303 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,304 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,304 DEBUG applyRadar - Radar Index0.0282 
+2024-07-07 15:06:45,305 DEBUG applyRadar - Radar Pulse at T 0.0282 between0.028and0.029 
+2024-07-07 15:06:45,305 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,305 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,306 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,306 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,364 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,365 DEBUG applyRadar - Radar Index0.0292 
+2024-07-07 15:06:45,365 DEBUG applyRadar - Radar Pulse at T 0.0292 between0.029and0.03 
+2024-07-07 15:06:45,365 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,366 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,366 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,367 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,368 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,368 DEBUG applyRadar - Radar Index0.0292 
+2024-07-07 15:06:45,368 DEBUG applyRadar - Radar Pulse at T 0.0292 between0.029and0.03 
+2024-07-07 15:06:45,369 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,369 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,369 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,369 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,442 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,443 DEBUG applyRadar - Radar Index0.0302 
+2024-07-07 15:06:45,443 DEBUG applyRadar - Radar Pulse at T 0.0302 between0.03and0.031 
+2024-07-07 15:06:45,443 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,444 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,444 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,444 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,445 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,445 DEBUG applyRadar - Radar Index0.0302 
+2024-07-07 15:06:45,446 DEBUG applyRadar - Radar Pulse at T 0.0302 between0.03and0.031 
+2024-07-07 15:06:45,446 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,446 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,447 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,447 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,448 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,449 DEBUG applyRadar - Radar Index0.0302 
+2024-07-07 15:06:45,449 DEBUG applyRadar - Radar Pulse at T 0.0302 between0.03and0.031 
+2024-07-07 15:06:45,449 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,450 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,450 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,450 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,451 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,451 DEBUG applyRadar - Radar Index0.0302 
+2024-07-07 15:06:45,451 DEBUG applyRadar - Radar Pulse at T 0.0302 between0.03and0.031 
+2024-07-07 15:06:45,452 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,452 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,452 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,452 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,534 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,535 DEBUG applyRadar - Radar Index0.0312 
+2024-07-07 15:06:45,535 DEBUG applyRadar - Radar Pulse at T 0.0312 between0.031and0.032 
+2024-07-07 15:06:45,535 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,535 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,536 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,536 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,537 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,537 DEBUG applyRadar - Radar Index0.0312 
+2024-07-07 15:06:45,537 DEBUG applyRadar - Radar Pulse at T 0.0312 between0.031and0.032 
+2024-07-07 15:06:45,538 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,538 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,538 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,539 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,597 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,598 DEBUG applyRadar - Radar Index0.0322 
+2024-07-07 15:06:45,598 DEBUG applyRadar - Radar Pulse at T 0.0322 between0.032and0.032857 
+2024-07-07 15:06:45,598 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:45,599 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,599 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:45,599 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:45,601 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,601 DEBUG applyRadar - Radar Index0.0322 
+2024-07-07 15:06:45,601 DEBUG applyRadar - Radar Pulse at T 0.0322 between0.032and0.032857 
+2024-07-07 15:06:45,602 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:45,602 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,602 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:45,602 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:45,603 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,603 DEBUG applyRadar - Radar Index0.0322 
+2024-07-07 15:06:45,604 DEBUG applyRadar - Radar Pulse at T 0.0322 between0.032and0.033 
+2024-07-07 15:06:45,604 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,604 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,604 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,605 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,605 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,606 DEBUG applyRadar - Radar Index0.0322 
+2024-07-07 15:06:45,606 DEBUG applyRadar - Radar Pulse at T 0.0322 between0.032and0.033 
+2024-07-07 15:06:45,606 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,606 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,607 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,607 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,608 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,608 DEBUG applyRadar - Radar Index0.0322 
+2024-07-07 15:06:45,608 DEBUG applyRadar - Radar Pulse at T 0.0322 between0.032and0.033 
+2024-07-07 15:06:45,609 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,609 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,609 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,609 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,610 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,610 DEBUG applyRadar - Radar Index0.0322 
+2024-07-07 15:06:45,610 DEBUG applyRadar - Radar Pulse at T 0.0322 between0.032and0.033 
+2024-07-07 15:06:45,611 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,611 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,612 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,612 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,676 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,676 DEBUG applyRadar - Radar Index0.0332 
+2024-07-07 15:06:45,677 DEBUG applyRadar - Radar Pulse at T 0.0332 between0.033and0.034 
+2024-07-07 15:06:45,677 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,677 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,678 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,678 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,679 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,680 DEBUG applyRadar - Radar Index0.0332 
+2024-07-07 15:06:45,680 DEBUG applyRadar - Radar Pulse at T 0.0332 between0.033and0.034 
+2024-07-07 15:06:45,681 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,681 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,681 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,681 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,742 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,742 DEBUG applyRadar - Radar Index0.0342 
+2024-07-07 15:06:45,743 DEBUG applyRadar - Radar Pulse at T 0.0342 between0.034and0.035 
+2024-07-07 15:06:45,743 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,743 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,744 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,744 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,745 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,746 DEBUG applyRadar - Radar Index0.0342 
+2024-07-07 15:06:45,746 DEBUG applyRadar - Radar Pulse at T 0.0342 between0.034and0.035 
+2024-07-07 15:06:45,746 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,747 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,747 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,747 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,811 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,811 DEBUG applyRadar - Radar Index0.0352 
+2024-07-07 15:06:45,812 DEBUG applyRadar - Radar Pulse at T 0.0352 between0.035and0.036 
+2024-07-07 15:06:45,812 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,812 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,813 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,813 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,814 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,814 DEBUG applyRadar - Radar Index0.0352 
+2024-07-07 15:06:45,814 DEBUG applyRadar - Radar Pulse at T 0.0352 between0.035and0.036 
+2024-07-07 15:06:45,815 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,815 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,815 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,815 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,878 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,879 DEBUG applyRadar - Radar Index0.0362 
+2024-07-07 15:06:45,879 DEBUG applyRadar - Radar Pulse at T 0.0362 between0.036and0.037 
+2024-07-07 15:06:45,879 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,880 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,880 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,880 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,881 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,882 DEBUG applyRadar - Radar Index0.0362 
+2024-07-07 15:06:45,882 DEBUG applyRadar - Radar Pulse at T 0.0362 between0.036and0.037 
+2024-07-07 15:06:45,882 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,883 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,883 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,883 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,950 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,950 DEBUG applyRadar - Radar Index0.0372 
+2024-07-07 15:06:45,951 DEBUG applyRadar - Radar Pulse at T 0.0372 between0.037and0.037857 
+2024-07-07 15:06:45,951 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:45,951 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,952 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:45,952 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:45,953 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,953 DEBUG applyRadar - Radar Index0.0372 
+2024-07-07 15:06:45,954 DEBUG applyRadar - Radar Pulse at T 0.0372 between0.037and0.037857 
+2024-07-07 15:06:45,954 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:45,954 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,955 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:45,955 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:45,957 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,957 DEBUG applyRadar - Radar Index0.0372 
+2024-07-07 15:06:45,958 DEBUG applyRadar - Radar Pulse at T 0.0372 between0.037and0.038 
+2024-07-07 15:06:45,958 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,958 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,958 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,958 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,959 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,959 DEBUG applyRadar - Radar Index0.0372 
+2024-07-07 15:06:45,960 DEBUG applyRadar - Radar Pulse at T 0.0372 between0.037and0.038 
+2024-07-07 15:06:45,960 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,960 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,960 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,960 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,962 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,962 DEBUG applyRadar - Radar Index0.0372 
+2024-07-07 15:06:45,962 DEBUG applyRadar - Radar Pulse at T 0.0372 between0.037and0.038 
+2024-07-07 15:06:45,963 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,963 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,963 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,964 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:45,964 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:45,965 DEBUG applyRadar - Radar Index0.0372 
+2024-07-07 15:06:45,965 DEBUG applyRadar - Radar Pulse at T 0.0372 between0.037and0.038 
+2024-07-07 15:06:45,965 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:45,965 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:45,965 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:45,966 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,037 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,037 DEBUG applyRadar - Radar Index0.0382 
+2024-07-07 15:06:46,038 DEBUG applyRadar - Radar Pulse at T 0.0382 between0.038and0.039 
+2024-07-07 15:06:46,038 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,038 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,039 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,039 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,040 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,040 DEBUG applyRadar - Radar Index0.0382 
+2024-07-07 15:06:46,040 DEBUG applyRadar - Radar Pulse at T 0.0382 between0.038and0.039 
+2024-07-07 15:06:46,041 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,041 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,041 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,042 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,100 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,101 DEBUG applyRadar - Radar Index0.0392 
+2024-07-07 15:06:46,101 DEBUG applyRadar - Radar Pulse at T 0.0392 between0.039and0.04 
+2024-07-07 15:06:46,101 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,102 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,102 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,102 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,103 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,104 DEBUG applyRadar - Radar Index0.0392 
+2024-07-07 15:06:46,104 DEBUG applyRadar - Radar Pulse at T 0.0392 between0.039and0.04 
+2024-07-07 15:06:46,105 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,105 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,106 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,106 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,170 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,170 DEBUG applyRadar - Radar Index0.0402 
+2024-07-07 15:06:46,170 DEBUG applyRadar - Radar Pulse at T 0.0402 between0.04and0.041 
+2024-07-07 15:06:46,171 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,171 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,171 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,172 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,172 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,173 DEBUG applyRadar - Radar Index0.0402 
+2024-07-07 15:06:46,173 DEBUG applyRadar - Radar Pulse at T 0.0402 between0.04and0.041 
+2024-07-07 15:06:46,173 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,173 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,174 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,174 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,176 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,176 DEBUG applyRadar - Radar Index0.0402 
+2024-07-07 15:06:46,176 DEBUG applyRadar - Radar Pulse at T 0.0402 between0.04and0.041 
+2024-07-07 15:06:46,177 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,177 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,177 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,177 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,178 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,178 DEBUG applyRadar - Radar Index0.0402 
+2024-07-07 15:06:46,178 DEBUG applyRadar - Radar Pulse at T 0.0402 between0.04and0.041 
+2024-07-07 15:06:46,179 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,179 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,179 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,179 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,249 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,250 DEBUG applyRadar - Radar Index0.0412 
+2024-07-07 15:06:46,250 DEBUG applyRadar - Radar Pulse at T 0.0412 between0.041and0.042 
+2024-07-07 15:06:46,250 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,251 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,251 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,251 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,252 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,252 DEBUG applyRadar - Radar Index0.0412 
+2024-07-07 15:06:46,253 DEBUG applyRadar - Radar Pulse at T 0.0412 between0.041and0.042 
+2024-07-07 15:06:46,253 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,254 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,254 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,254 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,328 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,329 DEBUG applyRadar - Radar Index0.0422 
+2024-07-07 15:06:46,329 DEBUG applyRadar - Radar Pulse at T 0.0422 between0.042and0.042857 
+2024-07-07 15:06:46,329 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:46,330 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,330 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:46,330 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:46,331 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,331 DEBUG applyRadar - Radar Index0.0422 
+2024-07-07 15:06:46,332 DEBUG applyRadar - Radar Pulse at T 0.0422 between0.042and0.042857 
+2024-07-07 15:06:46,332 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:46,332 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,332 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:46,333 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:46,334 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,334 DEBUG applyRadar - Radar Index0.0422 
+2024-07-07 15:06:46,334 DEBUG applyRadar - Radar Pulse at T 0.0422 between0.042and0.043 
+2024-07-07 15:06:46,335 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,335 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,335 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,336 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,337 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,337 DEBUG applyRadar - Radar Index0.0422 
+2024-07-07 15:06:46,337 DEBUG applyRadar - Radar Pulse at T 0.0422 between0.042and0.043 
+2024-07-07 15:06:46,337 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,338 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,338 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,338 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,340 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,340 DEBUG applyRadar - Radar Index0.0422 
+2024-07-07 15:06:46,340 DEBUG applyRadar - Radar Pulse at T 0.0422 between0.042and0.043 
+2024-07-07 15:06:46,341 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,341 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,341 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,341 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,342 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,343 DEBUG applyRadar - Radar Index0.0422 
+2024-07-07 15:06:46,343 DEBUG applyRadar - Radar Pulse at T 0.0422 between0.042and0.043 
+2024-07-07 15:06:46,343 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,343 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,344 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,344 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,409 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,409 DEBUG applyRadar - Radar Index0.0432 
+2024-07-07 15:06:46,409 DEBUG applyRadar - Radar Pulse at T 0.0432 between0.043and0.044 
+2024-07-07 15:06:46,410 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,410 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,411 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,411 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,413 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,413 DEBUG applyRadar - Radar Index0.0432 
+2024-07-07 15:06:46,414 DEBUG applyRadar - Radar Pulse at T 0.0432 between0.043and0.044 
+2024-07-07 15:06:46,414 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,414 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,415 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,415 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,476 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,477 DEBUG applyRadar - Radar Index0.0442 
+2024-07-07 15:06:46,477 DEBUG applyRadar - Radar Pulse at T 0.0442 between0.044and0.045 
+2024-07-07 15:06:46,478 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,478 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,478 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,479 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,480 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,480 DEBUG applyRadar - Radar Index0.0442 
+2024-07-07 15:06:46,480 DEBUG applyRadar - Radar Pulse at T 0.0442 between0.044and0.045 
+2024-07-07 15:06:46,481 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,481 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,481 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,482 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,543 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,543 DEBUG applyRadar - Radar Index0.0452 
+2024-07-07 15:06:46,543 DEBUG applyRadar - Radar Pulse at T 0.0452 between0.045and0.046 
+2024-07-07 15:06:46,544 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,544 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,545 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,545 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,546 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,546 DEBUG applyRadar - Radar Index0.0452 
+2024-07-07 15:06:46,546 DEBUG applyRadar - Radar Pulse at T 0.0452 between0.045and0.046 
+2024-07-07 15:06:46,547 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,547 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,547 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,547 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,603 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,604 DEBUG applyRadar - Radar Index0.0462 
+2024-07-07 15:06:46,604 DEBUG applyRadar - Radar Pulse at T 0.0462 between0.046and0.047 
+2024-07-07 15:06:46,604 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,605 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,605 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,605 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,607 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,607 DEBUG applyRadar - Radar Index0.0462 
+2024-07-07 15:06:46,607 DEBUG applyRadar - Radar Pulse at T 0.0462 between0.046and0.047 
+2024-07-07 15:06:46,608 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,608 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,608 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,609 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,667 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,668 DEBUG applyRadar - Radar Index0.0472 
+2024-07-07 15:06:46,668 DEBUG applyRadar - Radar Pulse at T 0.0472 between0.047and0.047857 
+2024-07-07 15:06:46,668 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:46,669 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,669 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:46,669 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:46,671 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,671 DEBUG applyRadar - Radar Index0.0472 
+2024-07-07 15:06:46,671 DEBUG applyRadar - Radar Pulse at T 0.0472 between0.047and0.047857 
+2024-07-07 15:06:46,672 DEBUG applyRadar - 26336 samples over 0.0008571(s). 1 Sample = 3.2545e-08(s) 
+2024-07-07 15:06:46,672 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,672 DEBUG applyRadar - Radar Pulse starts at sample index: 6145 
+2024-07-07 15:06:46,672 DEBUG applyRadar - IQ Data will be 1'd from sample index 6145 to 7374 
+2024-07-07 15:06:46,673 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,673 DEBUG applyRadar - Radar Index0.0472 
+2024-07-07 15:06:46,674 DEBUG applyRadar - Radar Pulse at T 0.0472 between0.047and0.048 
+2024-07-07 15:06:46,674 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,674 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,674 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,675 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,676 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,676 DEBUG applyRadar - Radar Index0.0472 
+2024-07-07 15:06:46,676 DEBUG applyRadar - Radar Pulse at T 0.0472 between0.047and0.048 
+2024-07-07 15:06:46,677 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,677 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,677 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,678 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,678 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,679 DEBUG applyRadar - Radar Index0.0472 
+2024-07-07 15:06:46,679 DEBUG applyRadar - Radar Pulse at T 0.0472 between0.047and0.048 
+2024-07-07 15:06:46,679 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,679 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,680 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,680 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,681 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,682 DEBUG applyRadar - Radar Index0.0472 
+2024-07-07 15:06:46,682 DEBUG applyRadar - Radar Pulse at T 0.0472 between0.047and0.048 
+2024-07-07 15:06:46,682 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,683 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,683 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,683 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,754 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,754 DEBUG applyRadar - Radar Index0.0482 
+2024-07-07 15:06:46,755 DEBUG applyRadar - Radar Pulse at T 0.0482 between0.048and0.049 
+2024-07-07 15:06:46,755 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,756 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,756 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,756 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,757 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,758 DEBUG applyRadar - Radar Index0.0482 
+2024-07-07 15:06:46,758 DEBUG applyRadar - Radar Pulse at T 0.0482 between0.048and0.049 
+2024-07-07 15:06:46,758 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,759 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,759 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,759 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,815 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,816 DEBUG applyRadar - Radar Index0.0492 
+2024-07-07 15:06:46,816 DEBUG applyRadar - Radar Pulse at T 0.0492 between0.049and0.05 
+2024-07-07 15:06:46,817 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,817 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,818 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,818 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,819 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,819 DEBUG applyRadar - Radar Index0.0492 
+2024-07-07 15:06:46,819 DEBUG applyRadar - Radar Pulse at T 0.0492 between0.049and0.05 
+2024-07-07 15:06:46,820 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,820 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,821 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,821 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,889 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,889 DEBUG applyRadar - Radar Index0.0502 
+2024-07-07 15:06:46,890 DEBUG applyRadar - Radar Pulse at T 0.0502 between0.05and0.051 
+2024-07-07 15:06:46,890 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,890 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,891 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,891 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,892 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,892 DEBUG applyRadar - Radar Index0.0502 
+2024-07-07 15:06:46,892 DEBUG applyRadar - Radar Pulse at T 0.0502 between0.05and0.051 
+2024-07-07 15:06:46,893 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,893 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,893 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,894 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,895 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,895 DEBUG applyRadar - Radar Index0.0502 
+2024-07-07 15:06:46,895 DEBUG applyRadar - Radar Pulse at T 0.0502 between0.05and0.051 
+2024-07-07 15:06:46,896 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,896 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,896 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,896 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
+2024-07-07 15:06:46,897 DEBUG applyRadar - applyRadarFunctionStart 
+2024-07-07 15:06:46,897 DEBUG applyRadar - Radar Index0.0502 
+2024-07-07 15:06:46,897 DEBUG applyRadar - Radar Pulse at T 0.0502 between0.05and0.051 
+2024-07-07 15:06:46,898 DEBUG applyRadar - 30720 samples over 0.001(s). 1 Sample = 3.2552e-08(s) 
+2024-07-07 15:06:46,898 DEBUG applyRadar - Radar PulseWidth is 4e-05 (s) or 1229 samples 
+2024-07-07 15:06:46,898 DEBUG applyRadar - Radar Pulse starts at sample index: 6144 
+2024-07-07 15:06:46,898 DEBUG applyRadar - IQ Data will be 1'd from sample index 6144 to 7373 
