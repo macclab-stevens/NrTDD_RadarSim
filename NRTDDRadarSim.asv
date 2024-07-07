@@ -69,10 +69,10 @@ TestData.TransmitterID = 1;
 TestData.StartTime = 0;
 TestData.Duration = 1e-3;
 global Radar
-Radar.PRI_Hz = 1000; %Hz
+Radar.PRI_Hz = 1640; %Hz
 Radar.PRI = 1/ Radar.PRI_Hz;
-Radar.PW = 40e-6; %uS
-Radar.StartOffset = 200e-6;
+Radar.PW = 0.5e-3; %uS NOTE PW MUST be less than slot duration. 15kHz < 1ms, 30kHz < 0.5ms, etc...
+Radar.StartOffset = 990e-6;
 Radar.Starts = [Radar.StartOffset]
 while Radar.Starts(end) < simulationTime
     Radar.Starts(end + 1) = Radar.Starts(end) + Radar.PRI;
@@ -154,32 +154,42 @@ end
 end
 
 function Data = applyRadar(Data)
-    fprintf("-- \n")
-    global Radar
-    global L
-    % disp(Radar.Starts)
+    global Radar;
+    global L;
+    
+    L.debug('applyRadar',"applyRadarFunctionStart")
+
     for i = 1:length(Radar.Starts)
-        % disp(Radar.Starts(i))
-        %if radar value is between start_time and start_time+duration
-        if Radar.Starts(i)>=Data.StartTime & Radar.Starts(i) <= (Data.StartTime+Data.Duration)
-            L.debug('applyRadar','Start Logginggggggggggggggggggg');
-            message = strcat("Radar Pulse at T ",string(Radar.Starts(i))," between",string(Data.StartTime),"and",string(Data.StartTime+Data.Duration) );
-            L.debug('applyRadar',message )
+        startTime = Radar.Starts(i);
+        %if radar start value is between start_time and start_time+duration
+        if startTime>=Data.StartTime & startTime <= (Data.StartTime+Data.Duration)
+            L.debug('applyRadar',"PulseHead inside slot")
+            L.debug('applyRadar',strcat("Radar Index ",string(Radar.Starts(i))));
+            L.debug('applyRadar',strcat("Radar Pulse at T ",string(startTime)," between",string(Data.StartTime)," - ",string(Data.StartTime+Data.Duration) ))
             numSamples = length(Data.Data);
             sampleDur = Data.Duration/numSamples;
-            % message = ;
             L.debug('applyRadar', strcat(string(numSamples)," samples over ",string(Data.Duration),"(s). 1 Sample = ",string(sampleDur),"(s)"))
             Radar.PWsamples = int64(Radar.PW/sampleDur);
-            L.debug('applyRadar',strcat("Radar PulseWidth is",string(Radar.PW),"(s) or ",string(Radar.PWsamples),"samples" ) );
+            L.debug('applyRadar',strcat("Radar PulseWidth is ",string(Radar.PW)," (s) or ",string(Radar.PWsamples)," samples" ) );
             Radar.SampleStart = int64((Radar.Starts(i) - Data.StartTime)/sampleDur);
+            Radar.SampleStop = Radar.SampleStart+Radar.PWsamples;
+            if Radar.SampleStop > numSamples; Radar.SampleStop = numSamples;end %only apply IQ inside the slot. 
             L.debug('applyRadar',strcat("Radar Pulse starts at sample index: ",string(Radar.SampleStart) ) );
-            fprintf("IQ Data will be 1'd from sample index %f to %f \n",Radar.SampleStart,Radar.SampleStart+Radar.PWsamples)
+            L.debug('applyRadar',strcat("IQ Data will be ones() from sample index ",string(Radar.SampleStart)," to ",string(Radar.SampleStop), " [",string(Radar.SampleStop-Radar.SampleStart),"] samples" )  );
             x = complex(ones(1,Radar.PWsamples),0);
-            L.debug('applyRadar',strcat("x size:",%f Data.Data(:) %f \n",numel(x),numel(Data.Data(Radar.SampleStart:Radar.SampleStart+Radar.PWsamples-1) )   )
-            % disp(Data.Data(Radar.SampleStart:Radar.SampleStart+Radar.PWsamples-1))
-            % disp(x)
+            %DataPoints
             Data.Data(Radar.SampleStart:Radar.SampleStart+Radar.PWsamples-1) = x;
-            break
+        end
+        %if PulseHead NOT inside the slot, but PulseTail (+PW) is...
+        if not(startTime>=Data.StartTime & startTime <= (Data.StartTime+Data.Duration)) & (startTime+Radar.PW>=Data.StartTime & startTime+Radar.PW <= (Data.StartTime+Data.Duration))
+            L.debug('applyRadar',"PulseTail inside slot")
+            pulseTailOverlap = startTime+Radar.PW-Data.StartTime;
+            pulseTailSamples = int64(pulseTailOverlap/(Data.Duration/length(Data.Data)));
+            L.debug('applyRadar',strcat("Pulse Tail is over by ",string(pulseTailOverlap)," (s) or ",string(pulseTailSamples)," samples"))
+            L.debug('applyRadar',strcat("IQ Data will be ones() from sample index: ",string(1)," to ",string(pulseTailSamples)))
+            x = complex(ones(1,pulseTailSamples),0);
+            Data.Data(1:pulseTailSamples) = x;
+
         end
     end
     fprintf("-- \n")

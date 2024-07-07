@@ -15,7 +15,7 @@
 
 %To create the logger reference:
 global L
-logFileName = 'log.txt'
+logFileName = 'log.txt';
 fid = fopen(logFileName,'w');
 fclose(fid);
 L = log4m.getLogger(logFileName);
@@ -36,14 +36,14 @@ networkSimulator = wirelessNetworkSimulator.init;
 % * Subcarrier spacing — 30 KHz 
 % * Duplex mode — Time division duplex
 
-PhyAbst = "None"
-gnb = nrGNB(Position=[-100 100 0],ChannelBandwidth=20e6,DuplexMode="TDD", SubcarrierSpacing=15e3,PHYAbstractionMethod=PhyAbst)
+PhyAbst = "None";
+gnb = nrGNB(Position=[-100 100 0],ChannelBandwidth=20e6,DuplexMode="TDD", SubcarrierSpacing=15e3,PHYAbstractionMethod=PhyAbst);
  
 % Create two UE nodes, specifying their positions in Cartesian coordinates.
 
-ue1 = nrUE(Position=[100 100 0],PHYAbstractionMethod=PhyAbst) % In Cartesian x, y, and z coordinates.
+ue1 = nrUE(Position=[100 100 0],PHYAbstractionMethod=PhyAbst); % In Cartesian x, y, and z coordinates.
 ue2 = nrUE(Position=[5000 100 0],PHYAbstractionMethod=PhyAbst);
-ueNodes = [ue1 ue2]
+ueNodes = [ue1 ue2];
 
 % Configure a scheduler at the gNB with a maximum number of two users per transmission 
 % time interval (TTI).
@@ -69,11 +69,11 @@ TestData.TransmitterID = 1;
 TestData.StartTime = 0;
 TestData.Duration = 1e-3;
 global Radar
-Radar.PRI_Hz = 1000; %Hz
+Radar.PRI_Hz = 1640; %Hz
 Radar.PRI = 1/ Radar.PRI_Hz;
-Radar.PW = 40e-6; %uS
-Radar.StartOffset = 200e-6;
-Radar.Starts = [Radar.StartOffset]
+Radar.PW = 0.5e-3; %uS NOTE PW MUST be less than slot duration. 15kHz < 1ms, 30kHz < 0.5ms, etc...
+Radar.StartOffset = 990e-6;
+Radar.Starts = [Radar.StartOffset];
 while Radar.Starts(end) < simulationTime
     Radar.Starts(end + 1) = Radar.Starts(end) + Radar.PRI;
 end
@@ -88,7 +88,7 @@ run(networkSimulator,simulationTime)
 
 gnbStats = statistics(gnb);
 gnbStats.MAC
-ueStats = statistics(ueNodes)
+ueStats = statistics(ueNodes);
 
 %% 
 % Follow these steps to create a custom channel that models NR path loss for 
@@ -147,40 +147,49 @@ if outputData.Abstraction == 0                             % Full physical layer
 
 
     %%Null IQ Data that lines up with the radar pulses
-    outputData = applyRadar(outputData)
+    outputData = applyRadar(outputData);
 
 
 end
 end
 
 function Data = applyRadar(Data)
-    global Radar
-    global L
+    global Radar;
+    global L;
     
     L.debug('applyRadar',"applyRadarFunctionStart")
-    
+
     for i = 1:length(Radar.Starts)
-        % disp(Radar.Starts(i))
-        %if radar value is between start_time and start_time+duration
-        if Radar.Starts(i)>=Data.StartTime & Radar.Starts(i) <= (Data.StartTime+Data.Duration)
-            L.debug('applyRadar',strcat("Radar Index",string(Radar.Starts(i))));
-            message = strcat("Radar Pulse at T ",string(Radar.Starts(i))," between",string(Data.StartTime),"and",string(Data.StartTime+Data.Duration) );
-            L.debug('applyRadar',message )
+        startTime = Radar.Starts(i);
+        %if radar start value is between start_time and start_time+duration
+        if startTime>=Data.StartTime & startTime <= (Data.StartTime+Data.Duration)
+            L.debug('applyRadar',"PulseHead inside slot")
+            L.debug('applyRadar',strcat("Radar Index ",string(Radar.Starts(i))));
+            L.debug('applyRadar',strcat("Radar Pulse at T ",string(startTime)," between",string(Data.StartTime)," - ",string(Data.StartTime+Data.Duration) ))
             numSamples = length(Data.Data);
             sampleDur = Data.Duration/numSamples;
-            % message = ;
             L.debug('applyRadar', strcat(string(numSamples)," samples over ",string(Data.Duration),"(s). 1 Sample = ",string(sampleDur),"(s)"))
             Radar.PWsamples = int64(Radar.PW/sampleDur);
             L.debug('applyRadar',strcat("Radar PulseWidth is ",string(Radar.PW)," (s) or ",string(Radar.PWsamples)," samples" ) );
             Radar.SampleStart = int64((Radar.Starts(i) - Data.StartTime)/sampleDur);
-            Radar.SampleStop = Radar.SampleStart+Radar.PWsamples
+            Radar.SampleStop = Radar.SampleStart+Radar.PWsamples;
+            if Radar.SampleStop > numSamples; Radar.SampleStop = numSamples;end %only apply IQ inside the slot. 
             L.debug('applyRadar',strcat("Radar Pulse starts at sample index: ",string(Radar.SampleStart) ) );
-            L.debug('applyRadar',strcat("IQ Data will be 1'd from sample index ",string(Radar.SampleStart)," to ",string(Radar.SampleStop) )  );
+            L.debug('applyRadar',strcat("IQ Data will be ones() from sample index ",string(Radar.SampleStart)," to ",string(Radar.SampleStop), " [",string(Radar.SampleStop-Radar.SampleStart),"] samples" )  );
             x = complex(ones(1,Radar.PWsamples),0);
-            
             %DataPoints
             Data.Data(Radar.SampleStart:Radar.SampleStart+Radar.PWsamples-1) = x;
-            break
+        end
+        %if PulseHead NOT inside the slot, but PulseTail (+PW) is...
+        if not(startTime>=Data.StartTime & startTime <= (Data.StartTime+Data.Duration)) & (startTime+Radar.PW>=Data.StartTime & startTime+Radar.PW <= (Data.StartTime+Data.Duration))
+            L.debug('applyRadar',"PulseTail inside slot")
+            pulseTailOverlap = startTime+Radar.PW-Data.StartTime;
+            pulseTailSamples = int64(pulseTailOverlap/(Data.Duration/length(Data.Data)));
+            L.debug('applyRadar',strcat("Pulse Tail is over by ",string(pulseTailOverlap)," (s) or ",string(pulseTailSamples)," samples"))
+            L.debug('applyRadar',strcat("IQ Data will be ones() from sample index: ",string(1)," to ",string(pulseTailSamples)))
+            x = complex(ones(1,pulseTailSamples),0);
+            Data.Data(1:pulseTailSamples) = x;
+
         end
     end
     fprintf("-- \n")
