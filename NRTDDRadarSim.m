@@ -62,12 +62,8 @@ addChannelModel(networkSimulator,@addImpairment);
 
 % Specify the simulation time in second
 simulationTime = 0.050;
-
-% Radar
-TestData.Type = 2;
-TestData.TransmitterID = 1;
-TestData.StartTime = 0;
-TestData.Duration = 1e-3;
+%%
+%Radar
 global Radar
 Radar.PRI_Hz = 1640; %Hz
 Radar.PRI = 1/ Radar.PRI_Hz;
@@ -78,6 +74,10 @@ while Radar.Starts(end) < simulationTime
     Radar.Starts(end + 1) = Radar.Starts(end) + Radar.PRI;
 end
 disp(Radar.Starts)
+% Calling a Python script using the system command
+pythonCommand = strcat("../5GTDD-Radar-Visualizer/5G_TDD_Visualizer.py"," -f 'InterferenceVisual.jpg'"," -i")
+[status, cmdout] = system(pythonCommand);
+disp(cmdout)
 
 %% 
 % Run the simulation for the specified simulation time.

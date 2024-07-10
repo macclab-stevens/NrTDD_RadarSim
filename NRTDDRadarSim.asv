@@ -15,7 +15,7 @@
 
 %To create the logger reference:
 global L
-logFileName = 'log.txt'
+logFileName = 'log.txt';
 fid = fopen(logFileName,'w');
 fclose(fid);
 L = log4m.getLogger(logFileName);
@@ -36,14 +36,14 @@ networkSimulator = wirelessNetworkSimulator.init;
 % * Subcarrier spacing — 30 KHz 
 % * Duplex mode — Time division duplex
 
-PhyAbst = "None"
-gnb = nrGNB(Position=[-100 100 0],ChannelBandwidth=20e6,DuplexMode="TDD", SubcarrierSpacing=15e3,PHYAbstractionMethod=PhyAbst)
+PhyAbst = "None";
+gnb = nrGNB(Position=[-100 100 0],ChannelBandwidth=20e6,DuplexMode="TDD", SubcarrierSpacing=15e3,PHYAbstractionMethod=PhyAbst);
  
 % Create two UE nodes, specifying their positions in Cartesian coordinates.
 
-ue1 = nrUE(Position=[100 100 0],PHYAbstractionMethod=PhyAbst) % In Cartesian x, y, and z coordinates.
+ue1 = nrUE(Position=[100 100 0],PHYAbstractionMethod=PhyAbst); % In Cartesian x, y, and z coordinates.
 ue2 = nrUE(Position=[5000 100 0],PHYAbstractionMethod=PhyAbst);
-ueNodes = [ue1 ue2]
+ueNodes = [ue1 ue2];
 
 % Configure a scheduler at the gNB with a maximum number of two users per transmission 
 % time interval (TTI).
@@ -63,22 +63,23 @@ addChannelModel(networkSimulator,@addImpairment);
 % Specify the simulation time in second
 simulationTime = 0.050;
 
-% Radar
-TestData.Type = 2;
-TestData.TransmitterID = 1;
-TestData.StartTime = 0;
-TestData.Duration = 1e-3;
+%Radar
 global Radar
 Radar.PRI_Hz = 1640; %Hz
 Radar.PRI = 1/ Radar.PRI_Hz;
 Radar.PW = 0.5e-3; %uS NOTE PW MUST be less than slot duration. 15kHz < 1ms, 30kHz < 0.5ms, etc...
 Radar.StartOffset = 990e-6;
-Radar.Starts = [Radar.StartOffset]
+Radar.Starts = [Radar.StartOffset];
 while Radar.Starts(end) < simulationTime
     Radar.Starts(end + 1) = Radar.Starts(end) + Radar.PRI;
 end
 disp(Radar.Starts)
+% Calling a Python script using the system command
+pythonCommand = strcat("./5G_TDD_Visualizer.py ","")
+[status, cmdout] = system('./5G_TDD_Visualizer.py');
 
+% Display the output
+disp(cmdout)
 %% 
 % Run the simulation for the specified simulation time.
 
@@ -88,7 +89,7 @@ run(networkSimulator,simulationTime)
 
 gnbStats = statistics(gnb);
 gnbStats.MAC
-ueStats = statistics(ueNodes)
+ueStats = statistics(ueNodes);
 
 %% 
 % Follow these steps to create a custom channel that models NR path loss for 
@@ -147,7 +148,7 @@ if outputData.Abstraction == 0                             % Full physical layer
 
 
     %%Null IQ Data that lines up with the radar pulses
-    outputData = applyRadar(outputData)
+    outputData = applyRadar(outputData);
 
 
 end
