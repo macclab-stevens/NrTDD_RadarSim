@@ -25,9 +25,9 @@ L.debug('main','Start Logging');
 L.error('exampleFunction','An error occurred');
 
 
-wirelessnetworkSupportPackageCheck
-% Create a wireless network simulator.
 
+% Create a wireless network simulator.
+wirelessnetworkSupportPackageCheck %%Check its installed 
 networkSimulator = wirelessNetworkSimulator.init;
 
 % Create a gNB node with these specifications. 
@@ -35,21 +35,42 @@ networkSimulator = wirelessNetworkSimulator.init;
 % * Channel bandwidth — 20 MHz
 % * Subcarrier spacing — 30 KHz 
 % * Duplex mode — Time division duplex
-
+% https://www.mathworks.com/help/5g/ref/nrgnb.html
 PhyAbst = "None";
-gnb = nrGNB(Position=[-100 100 0],ChannelBandwidth=20e6,DuplexMode="TDD", SubcarrierSpacing=15e3,PHYAbstractionMethod=PhyAbst);
+gnb = nrGNB( ...
+    Name='gNB_1',...
+    Position=[-100 100 0], ...
+    NoiseFigure = 6, ...
+    ReceiveGain = 6, ...
+    NumTransmitAntennas = 1,...
+    NumReceiveAntennas = 1,...
+    TransmitPower = 34, ...
+    PHYAbstractionMethod=PhyAbst,...
+    DuplexMode="TDD", ...
+    CarrierFrequency = 3.5e9,...
+    ChannelBandwidth=20e6, ...
+    SubcarrierSpacing=15e3, ...
+    NumResourceBlocks = 16 ....
+    );
  
 % Create two UE nodes, specifying their positions in Cartesian coordinates.
 
 ue1 = nrUE(Position=[100 100 0],PHYAbstractionMethod=PhyAbst); % In Cartesian x, y, and z coordinates.
 ue2 = nrUE(Position=[5000 100 0],PHYAbstractionMethod=PhyAbst);
 ueNodes = [ue1 ue2];
-
+%%
 % Configure a scheduler at the gNB with a maximum number of two users per transmission 
 % time interval (TTI).
+simParameters.NumUEs = 2;
+simParameters.NumRBs = 16;
+scheduler = hCustomScheduler(simParameters);
+addScheduler(gNB.MACEntity,scheduler);
+configureScheduler(gNB,Scheduler="RoundRobin",ResourceAllocationType=0);
+% configureScheduler(gnb,MaxNumUsersPerTTI=2)
 
-configureScheduler(gnb,MaxNumUsersPerTTI=2)
- 
+
+% Initialize the properties that are specific to this custom scheduling strategy
+%% 
 % Connect the UE nodes to the gNB node and enable full-buffer traffic.
 connectUE(gnb,ueNodes,FullBufferTraffic="on")
  
@@ -65,9 +86,9 @@ simulationTime = 0.050;
 %%
 %Radar
 global Radar
-Radar.PRI_Hz = 1640; %Hz
+Radar.PRI_Hz = 640; %Hz
 Radar.PRI = 1/ Radar.PRI_Hz;
-Radar.PW = 0.5e-3; %uS NOTE PW MUST be less than slot duration. 15kHz < 1ms, 30kHz < 0.5ms, etc...
+Radar.PW = 40e-6; %uS NOTE PW MUST be less than slot duration. 15kHz < 1ms, 30kHz < 0.5ms, etc...
 Radar.StartOffset = 990e-6;
 Radar.Starts = [Radar.StartOffset];
 while Radar.Starts(end) < simulationTime
@@ -86,9 +107,9 @@ run(networkSimulator,simulationTime)
 %% 
 % Obtain the statistics for the gNB and UE nodes.
 
-gnbStats = statistics(gnb);
+gnbStats = statistics(gnb)
 gnbStats.MAC
-ueStats = statistics(ueNodes);
+ueStats = statistics(ueNodes)
 
 %% 
 % Follow these steps to create a custom channel that models NR path loss for 
@@ -152,6 +173,7 @@ if outputData.Abstraction == 0                             % Full physical layer
 
 end
 end
+
 
 function Data = applyRadar(Data)
     global Radar;
